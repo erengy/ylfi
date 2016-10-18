@@ -3,17 +3,17 @@
             <ul class="row reset">
                 <li class="col-sm-4">
                     <h4>
-                        <a href="http://localhost/ylfi/faq">
-                            <span class="image"><img src="http://localhost/ylfi/assets/images/envelope.svg" alt="" /></span>
+                        <a href="<?php echo $base_uri; ?>/faq">
+                            <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/envelope.svg" alt="" /></span>
                             contact us
                         </a>
                     </h4>
-                    <p>Please read the <a href="http://localhost/ylfi/faq">FAQs</a> before <br /> sending us an <a href="mailto:jesse@yourlogicalfallacyis.com">email</a>.</p>
+                    <p>Please read the <a href="<?php echo $base_uri; ?>/faq">FAQs</a> before <br /> sending us an <a href="mailto:jesse@yourlogicalfallacyis.com">email</a>.</p>
                 </li>
                 <li class="col-sm-4">
                     <h4>
-                        <a href="http://localhost/ylfi/poster">
-                            <span class="image"><img src="http://localhost/ylfi/assets/images/poster.png" alt="" /></span>
+                        <a href="<?php echo $base_uri; ?>/poster">
+                            <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/poster.png" alt="" /></span>
                             want a free poster?
                         </a>
                     </h4>
@@ -22,7 +22,7 @@
                 <li class="col-sm-4">
                     <h4>
                         <a target='_blank' href="http://www.schoolofthought.org/">
-                            <span class="image"><img src="http://localhost/ylfi/assets/images/schoolofthought_small.png" alt="" /></span>
+                            <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/schoolofthought_small.png" alt="" /></span>
                             watch the TEDx
                         </a>
                     </h4>
@@ -31,31 +31,21 @@
             </ul>
 
             <p class="icons">
-                <a class='' href='http://localhost/ylfi/strawman' data-key='strawman' title='strawman'><i class='icon-strawman'></i></a>
-                <a class='' href='http://localhost/ylfi/false-cause' data-key='false-cause' title='false cause'><i class='icon-false-cause'></i></a>
-                <a class='' href='http://localhost/ylfi/appeal-to-emotion' data-key='appeal-to-emotion' title='appeal to emotion'><i class='icon-appeal-to-emotion'></i></a>
-                <a class='' href='http://localhost/ylfi/the-fallacy-fallacy' data-key='the-fallacy-fallacy' title='the fallacy fallacy'><i class='icon-the-fallacy-fallacy'></i></a>
-                <a class='' href='http://localhost/ylfi/slippery-slope' data-key='slippery-slope' title='slippery slope'><i class='icon-slippery-slope'></i></a>
-                <a class='' href='http://localhost/ylfi/ad-hominem' data-key='ad-hominem' title='ad hominem'><i class='icon-ad-hominem'></i></a>
-                <a class='' href='http://localhost/ylfi/tu-quoque' data-key='tu-quoque' title='tu quoque'><i class='icon-tu-quoque'></i></a>
-                <a class='' href='http://localhost/ylfi/personal-incredulity' data-key='personal-incredulity' title='personal incredulity'><i class='icon-personal-incredulity'></i></a>
-                <a class='' href='http://localhost/ylfi/special-pleading' data-key='special-pleading' title='special pleading'><i class='icon-special-pleading'></i></a>
-                <a class='' href='http://localhost/ylfi/loaded-question' data-key='loaded-question' title='loaded question'><i class='icon-loaded-question'></i></a>
-                <a class='' href='http://localhost/ylfi/burden-of-proof' data-key='burden-of-proof' title='burden of proof'><i class='icon-burden-of-proof'></i></a>
-                <a class='' href='http://localhost/ylfi/ambiguity' data-key='ambiguity' title='ambiguity'><i class='icon-ambiguity'></i></a>
+                <?php
+                if (!empty($fallacies)) {
+                    for ($i = 0; $i < count($fallacies) / 2; $i++) {
+                        echo get_fallacy_link($fallacies[$i]);
+                    }
+                }
+                ?>
                 <br class="hidden-md hidden-lg" />
-                <a class='' href='http://localhost/ylfi/the-gamblers-fallacy' data-key='the-gamblers-fallacy' title='the gambler's fallacy'><i class='icon-the-gamblers-fallacy'></i></a>
-                <a class='' href='http://localhost/ylfi/bandwagon' data-key='bandwagon' title='bandwagon'><i class='icon-bandwagon'></i></a>
-                <a class='' href='http://localhost/ylfi/appeal-to-authority' data-key='appeal-to-authority' title='appeal to authority'><i class='icon-appeal-to-authority'></i></a>
-                <a class='' href='http://localhost/ylfi/composition-division' data-key='composition-division' title='composition/division'><i class='icon-composition-division'></i></a>
-                <a class='' href='http://localhost/ylfi/no-true-scotsman' data-key='no-true-scotsman' title='no true scotsman'><i class='icon-no-true-scotsman'></i></a>
-                <a class='' href='http://localhost/ylfi/genetic' data-key='genetic' title='genetic'><i class='icon-genetic'></i></a>
-                <a class='' href='http://localhost/ylfi/black-or-white' data-key='black-or-white' title='black-or-white'><i class='icon-black-or-white'></i></a>
-                <a class='' href='http://localhost/ylfi/begging-the-question' data-key='begging-the-question' title='begging the question'><i class='icon-begging-the-question'></i></a>
-                <a class='' href='http://localhost/ylfi/appeal-to-nature' data-key='appeal-to-nature' title='appeal to nature'><i class='icon-appeal-to-nature'></i></a>
-                <a class='' href='http://localhost/ylfi/anecdotal' data-key='anecdotal' title='anecdotal'><i class='icon-anecdotal'></i></a>
-                <a class='' href='http://localhost/ylfi/the-texas-sharpshooter' data-key='the-texas-sharpshooter' title='the texas sharpshooter'><i class='icon-the-texas-sharpshooter'></i></a>
-                <a class='' href='http://localhost/ylfi/middle-ground' data-key='middle-ground' title='middle ground'><i class='icon-middle-ground'></i></a>
+                <?php
+                if (!empty($fallacies)) {
+                    for ($i = count($fallacies) / 2; $i < count($fallacies); $i++) {
+                        echo get_fallacy_link($fallacies[$i]);
+                    }
+                }
+                ?>
             </p>
 
             <p class="credits">
@@ -74,13 +64,13 @@
 
             <ul id="social">
                 <li class="fb">
-                    <div class="fb-like" data-href="http://localhost/ylfi" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+                    <div class="fb-like" data-href="<?php echo $base_uri; ?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
                 </li>
                 <li class="tw">
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://localhost/ylfi" data-text="Don't be fooled!"></a>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="<?php echo $base_uri; ?>" data-text="Don't be fooled!"></a>
                 </li>
                 <li class="gp">
-                    <div class="g-plusone" data-size="medium" data-href="http://localhost/ylfi"></div>
+                    <div class="g-plusone" data-size="medium" data-href="<?php echo $base_uri; ?>"></div>
                 </li>
             </ul>
 
@@ -99,7 +89,7 @@
 </script>
 
 <script async src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" id="jquery-script"></script>
-<script async src="http://localhost/ylfi/assets/js/fallacy.js?15"></script>
+<script async src="<?php echo $base_uri; ?>/assets/js/fallacy.js?15"></script>
 
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 
