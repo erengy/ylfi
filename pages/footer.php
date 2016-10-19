@@ -7,10 +7,10 @@
                     <h4>
                         <a href="<?php echo $base_uri; ?>/faq">
                             <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/envelope.svg" alt="" /></span>
-                            contact us
+                            bize ulaşın
                         </a>
                     </h4>
-                    <p>Please read the <a href="<?php echo $base_uri; ?>/faq">FAQs</a> before <br /> sending us an <a href="mailto:jesse@yourlogicalfallacyis.com">email</a>.</p>
+                    <p>Bize <a href="mailto:bilgi@ozgurdusuncehareketi.org">e-posta</a> göndermeden önce lütfen <a href="<?php echo $base_uri; ?>/faq">SSS</a> bölümünü inceleyin.</p>
                 </li>
                 <li class="col-sm-4">
                     <h4>
@@ -51,17 +51,13 @@
             </p>
 
             <p class="credits">
-                Created by
-                <a href="//au.linkedin.com/in/jesserichardsonaustralia" target="_blank" title="Jesse">Jesse Richardson</a>,
-                <a href="//espadav8.co.uk/" target="_blank" title="Andy">Andy Smith</a>, 
-                <a href="//theprojectsomething.com" target="_blank" title="Som">Som Meaden</a>,
-                and <a href="http://www.flipcreative.com.au/" target="_blank">Flip Creative</a>.
-                <!-- With a little love from <a href="http://gaandder.com/" target="_blank" title="James">James Gill</a>. -->
-                <br />
-                <a href="http://creativecommons.org/licenses/by-nc/3.0/" title="Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)" target="_blank">
-                    <span class="cc"></span> <span class="by"></span> <span class="nc"></span>
-                </a> 
-                Website content published under a creative commons attribution and noncommercial license 2016.
+                Oluşturan
+                <a href="http://au.linkedin.com/in/jesserichardsonaustralia" target="_blank" title="Jesse">Jesse Richardson</a>,
+                <a href="http://espadav8.co.uk/" target="_blank" title="Andy">Andy Smith</a> ve
+                <a href="http://theprojectsomething.com" target="_blank" title="Som">Som Meaden</a>.
+                <a href="http://creativecommons.org/licenses/by-nc/3.0/" title="Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)" target="_blank"><img src="https://s3.amazonaws.com/yourlogicalfallacyis/assets/cc.png" border="0" /></a>
+                Türkçeleştiren: <a href="http://ozgurdusuncehareketi.org" target="_blank" title="ODH">Özgür Düşünce Hareketi</a> &
+                Ivır zıvırı halleden: <a href="https://gurkan.in" target="_blank" title="Gürkan">Gürkan</a>
             </p>
 
             <ul id="social">

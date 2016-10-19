@@ -1744,30 +1744,30 @@ td.button {
   margin-bottom: 21px;
 }
 
-.icon-strawman,
-.icon-false-cause,
-.icon-appeal-to-emotion,
-.icon-the-fallacy-fallacy,
-.icon-slippery-slope,
-.icon-ad-hominem,
-.icon-tu-quoque,
-.icon-personal-incredulity,
-.icon-special-pleading,
-.icon-loaded-question,
-.icon-burden-of-proof,
-.icon-ambiguity,
-.icon-the-gamblers-fallacy,
-.icon-bandwagon,
-.icon-appeal-to-authority,
-.icon-composition-division,
-.icon-no-true-scotsman,
-.icon-genetic,
-.icon-black-or-white,
-.icon-begging-the-question,
-.icon-appeal-to-nature,
-.icon-anecdotal,
-.icon-the-texas-sharpshooter,
-.icon-middle-ground,
+.icon-korkuluk,
+.icon-hatali-cikarim,
+.icon-duygulara-basvurma,
+.icon-yanilgi-argumani,
+.icon-kaygan-zemin,
+.icon-kisiye-saldiri,
+.icon-elestiriye-cevap-verme,
+.icon-inanilmazlik-argumani,
+.icon-yan-cizme,
+.icon-gudumlu-soru,
+.icon-ispat-yukumlulugu,
+.icon-anlam-kargasasi,
+.icon-kumarbaz-yanilgisi,
+.icon-cogunluga-basvurma,
+.icon-otoriteye-basvurma,
+.icon-hatali-benzesim,
+.icon-gercek-temsilci,
+.icon-onculle-reddetme,
+.icon-hatali-ikilem,
+.icon-yetkin-olmama,
+.icon-dogaya-yonelim,
+.icon-ardilla-dogrulama,
+.icon-hatali-orneklem,
+.icon-orta-yol,
 .icon-cc,
 .icon-by,
 .icon-nc,
@@ -1786,99 +1786,99 @@ td.button {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-strawman:before {
+.icon-korkuluk:before {
   content: "\e600";
 }
 
-.icon-false-cause:before {
+.icon-hatali-cikarim:before {
   content: "\e601";
 }
 
-.icon-appeal-to-emotion:before {
+.icon-duygulara-basvurma:before {
   content: "\e602";
 }
 
-.icon-the-fallacy-fallacy:before {
+.icon-yanilgi-argumani:before {
   content: "\e603";
 }
 
-.icon-slippery-slope:before {
+.icon-kaygan-zemin:before {
   content: "\e604";
 }
 
-.icon-ad-hominem:before {
+.icon-kisiye-saldiri:before {
   content: "\e605";
 }
 
-.icon-tu-quoque:before {
+.icon-elestiriye-cevap-verme:before {
   content: "\e606";
 }
 
-.icon-personal-incredulity:before {
+.icon-inanilmazlik-argumani:before {
   content: "\e607";
 }
 
-.icon-special-pleading:before {
+.icon-yan-cizme:before {
   content: "\e608";
 }
 
-.icon-loaded-question:before {
+.icon-gudumlu-soru:before {
   content: "\e609";
 }
 
-.icon-burden-of-proof:before {
+.icon-ispat-yukumlulugu:before {
   content: "\e614";
 }
 
-.icon-ambiguity:before {
+.icon-anlam-kargasasi:before {
   content: "\e615";
 }
 
-.icon-the-gamblers-fallacy:before {
+.icon-kumarbaz-yanilgisi:before {
   content: "\e616";
 }
 
-.icon-bandwagon:before {
+.icon-cogunluga-basvurma:before {
   content: "\e617";
 }
 
-.icon-appeal-to-authority:before {
+.icon-otoriteye-basvurma:before {
   content: "\e60a";
 }
 
-.icon-composition-division:before {
+.icon-hatali-benzesim:before {
   content: "\e60b";
 }
 
-.icon-no-true-scotsman:before {
+.icon-gercek-temsilci:before {
   content: "\e60c";
 }
 
-.icon-genetic:before {
+.icon-onculle-reddetme:before {
   content: "\e60d";
 }
 
-.icon-black-or-white:before {
+.icon-hatali-ikilem:before {
   content: "\e60e";
 }
 
-.icon-begging-the-question:before {
+.icon-yetkin-olmama:before {
   content: "\e60f";
 }
 
-.icon-appeal-to-nature:before {
+.icon-dogaya-yonelim:before {
   content: "\e610";
 }
 
-.icon-anecdotal:before {
+.icon-ardilla-dogrulama:before {
   content: "\e611";
 }
 
-.icon-the-texas-sharpshooter:before {
+.icon-hatali-orneklem:before {
   content: "\e612";
 }
 
-.icon-middle-ground:before {
+.icon-orta-yol:before {
   content: "\e613";
 }
 
@@ -2491,7 +2491,7 @@ body {
   margin-top: 0;
 }
 .faq dt p:first-child:before, .faq dd p:first-child:before {
-  content: "A: ";
+  content: "C: ";
   font: 1.45em "Merriweather", sans-serif;
   font-weight: 900;
 }
@@ -2501,7 +2501,7 @@ body {
   font-weight: 700;
 }
 .faq dt p:first-child:before {
-  content: "Q: ";
+  content: "S: ";
 }
 .faq dd {
   margin-top: .25em;

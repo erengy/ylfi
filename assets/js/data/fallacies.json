@@ -1,551 +1,552 @@
 [
     {
-        "name": "strawman",
-        "title": "strawman",
-        "slug": "strawman",
-        "head": "You misrepresented someone's argument to make it easier to attack.",
-        "first": "Misrepresenting someone's argument to make it easier to attack.",
-        "description": "By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational&nbsp;debate.",
-        "pageTitle": "Your logical fallacy is strawman",
-        "exampleText": "Example: After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.",
+        "name": "korkuluk",
+        "title": "korkuluk",
+        "slug": "korkuluk",
+        "head": "Saldırması kolay olsun diye karşı tarafın yaklaşımını hatalı bir şekilde resmedip, eleştirilerinizi bu hayali resme yönelttiniz!",
+        "first": "Saldırması kolay olsun diye karşı tarafın yaklaşımını hatalı bir şekilde resmedip, eleştirilerinizi bu hayali resme yönelttiniz!",
+        "description": "Bu yanılgı türü, karşı çıkılan argümanın yerine onun hatalı bir versiyonu konduğu için bu ismi almıştır; gerçek olmayan bir şeye -bir korkuluğa- saldırmaya benzer. Karşıt iddianın yanlış aksettirilmesi taktiğine dayanır; rakibin aslında hiç söylemediği bir şey söyleniyormuş gibi gösterilir, gerçek iddiası çarpıtılır veya aşırı basitleştirilir. Karşıt iddia bu yolla dinleyicilerin gözünde abes ve sevimsiz bir hale getirilerek (çoğu zaman da bilinçli olarak) zayıflatılmış olur; üstelik de onu çürütmek adına hiçbir gerçek önerme yapılmaksızın! Korkuluk argümanları, akılcı ve dürüst bir tartışma ortamını tamamen imkansız kılar.",
+        "pageTitle": "Düştüğün mantık hatası: korkuluk",
+        "exampleText": "Örnek;</br>'Evrim kuramı insanların maymundan geldiğini söyler ama hiçbir maymunun bir insan bebek doğurduğu görülmemiştir. Demek ki evrim kuramı geçersizdir.' </br>  (Burada bir değil, iki tane korkuluk argümanı vardır. Birincisi, evrim kuramı insanların maymundan geldiğini söylemez; maymunlarla -ve tabii ki tüm diğer canlılarla- milyonlarca yıl önce yaşamış ortak bir ataya sahip olduğumuzu söyler. </br> İkincisi, evrim kuramı yakın akraba olan türlerin birbirinin yavrularını doğuracağını da söylemez.) </br> Bilgi için bkz: <u><a href=\"http://arsiv.ozgurdusuncehareketi.org/yazi/maymundan-geliyorsak-neden-hala-maymunlar-var/\">Maymundan geliyorsak, neden hala maymunlar var?</a></u> ",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is strawman",
-                "description": "You misrepresented someone's argument to make it easier to attack."
+                "title": "Düştüğün mantık hatası: korkuluk",
+                "description": "Saldırması kolay olsun diye karşı tarafın yaklaşımını hatalı bir şekilde resmedip, eleştirilerinizi bu hayali resme yönelttiniz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is strawman",
-                "og:description": "You misrepresented someone's argument to make it easier to attack.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/024\/original\/01-strawman.png",
+                "og:title": "Düştüğün mantık hatası: korkuluk",
+                "og:description": "Saldırması kolay olsun diye karşı tarafın yaklaşımını hatalı bir şekilde resmedip, eleştirilerinizi bu hayali resme yönelttiniz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/01-korkuluk.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "false-cause",
-        "title": "false cause",
-        "slug": "false-cause",
-        "head": "You presumed that a real or perceived relationship between things means that one is the cause of the other.",
-        "first": "Presuming that a real or perceived relationship between things means that one is the cause of the other.",
-        "description": "Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common&nbsp;cause.",
-        "pageTitle": "Your logical fallacy is false cause",
-        "exampleText": "Example: Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.",
+        "name": "hatali-cikarim",
+        "title": "hatalı çıkarım",
+        "slug": "hatali-cikarim",
+        "head": "Üzgünüz, şu anda saydığınız öncüllerden, vardığınız sonuçlara ulaşılamıyor, lütfen daha sonra tekrar deneyiniz.",
+        "first": "Üzgünüz, şu anda saydığınız öncüllerden, vardığınız sonuçlara ulaşılamıyor, lütfen daha sonra tekrar deneyiniz.",
+        "description": "(Lat. <i>Non sequitur</i>)</br>Hatalı çıkarım, adından da anlaşılabileceği gibi, bir konu üzerine argüman üretirken mantıksal silsilenin dikkatlice takip edilmemesi sonucu hatalı çıkarımlara ulaşılması şeklinde ortaya çıkan bir yanılgıdır. Zaten Latincesi de “buradan bu sonuç çıkmaz” veya “bu, şunu takip etmez” anlamına gelir. Burada önemli olan ortaya çıkacağı iddia edilen sonucun doğru veya yanlış olmasından ziyade, bu sonucun iddianın içerdiği öncüller ile mantıksal açıdan bağlantılı olup olmadığıdır.</br>Bu yanılgıdan kaçınmak için argümanlarınız arasındaki mantıksal bağlantıları daha dikkatli kurmalısınız!",
+        "pageTitle": "Düştüğün mantık hatası: hatalı çıkarım",
+        "exampleText": "Örnek;</br>Herkes kendi dininin kutsal olduğunu düşünüyor, o yüzden dine saygı duymalısın.</br>(Herhangi birinin, birtakım nesne ve olguları kutsal görmesi sadece o kişiyi bağlar. Bu örnekte, söz konusu kişinin dini tam aksine bizim saygı duyduğumuz doğru ve olguları hiçe sayıyor olabilir. Buradaki öncül (dinin kutsal olduğuna inanılıyor) ile sonuç (dine saygı duyulması) arasında mantıksal bir bağlantı yoktur. Saygıyı yaratacak olan etkenler (öncüller) bambaşkadır. Bu kişinin, kendi dininin kutsal olduğunu düşünmesi nedeniyle bizim o dine saygı duymamız gerektiğini söylemesi, hayranları var diye kötü bir filmi sevmemiz gerektiğini söylemeye benzer.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is false cause",
-                "description": "You presumed that a real or perceived relationship between things means that one is the cause of the other."
+                "title": "Düştüğün mantık hatası: hatalı çıkarım",
+                "description": "Üzgünüz, şu anda saydığınız öncüllerden, vardığınız sonuçlara ulaşılamıyor, lütfen daha sonra tekrar deneyiniz."
             },
             "og": {
-                "og:title": "Your logical fallacy is false cause",
-                "og:description": "You presumed that a real or perceived relationship between things means that one is the cause of the other.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/016\/original\/02-false-cause.png",
+                "og:title": "Düştüğün mantık hatası: hatalı çıkarım",
+                "og:description": "Üzgünüz, şu anda saydığınız öncüllerden, vardığınız sonuçlara ulaşılamıyor, lütfen daha sonra tekrar deneyiniz.",
+                "og:image": "http://localhost/ylfi/assets/images/og/02-hatali-cikarim.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "appeal-to-emotion",
-        "title": "appeal to emotion",
-        "slug": "appeal-to-emotion",
-        "head": "You attempted to manipulate an emotional response in place of a valid or compelling argument.",
-        "first": "Manipulating an emotional response in place of a valid or compelling argument.",
-        "description": "Appeals to emotion include appeals to fear, envy, hatred, pity, pride, and more. It's important to note that sometimes a logically coherent argument may inspire emotion or have an emotional aspect, but the problem and fallacy occurs when emotion is used instead of a logical argument, or to obscure the fact that no compelling rational reason exists for one's position. Everyone, bar sociopaths, is affected by emotion, and so appeals to emotion are a very common and effective argument tactic, but they're ultimately flawed, dishonest, and tend to make one's opponents justifiably&nbsp;emotional.",
-        "pageTitle": "Your logical fallacy is appeal to emotion",
-        "exampleText": "Example: Luke didn't want to eat his sheep's brains with chopped liver and brussel sprouts, but his father told him to think about the poor, starving children in a third world country who weren't fortunate enough to have any food at all.",
+        "name": "duygulara-basvurma",
+        "title": "duygulara başvurma",
+        "slug": "duygulara-basvurma",
+        "head": "Geçerli ve ikna edici bir argümanı duygusal bir tepkiye başvurarak çürütmeye çalıştınız!",
+        "first": "Geçerli ve ikna edici bir argümanı duygusal bir tepkiye başvurarak çürütmeye çalıştınız!",
+        "description": "Bu mantık yanılgısında korku, hayranlık, nefret, acıma, gurur, sevgi, özlem vb duygusal tepkilere başvurularak savunulan ve duygu sömürüsüne dayanan iddialar yer alır. Bazen mantıksal açıdan tutarlı olan bir iddianın duygusal sonuçları olabileceğini akılda tutmak gerekir. Ama sorun, bu duyguların iddianın geçerliliği üzerinde etkisi olduğunu varsaydığınız zaman başlar; öne sürülen iddiayı akılcı verilere değil de yol açacağı duygusal etkilere başvurarak savunmaya çalıştığınızda bu mantık yanılgısına düşmüş olursunuz. Duygusal çıkarımlardan herkes etkilenir, bu nedenle tartışmalarda duygulara başvurmak oldukça yaygın ve etkili bir ‘rakibi zayıflatma’ yöntemidir. Ancak öne sürülen duygusal etkiler, karşı çıkılan iddianın doğruluğu veya yanlışlığına ilişkin bir şey söylememektedir.",
+        "pageTitle": "Düştüğün mantık hatası: duygulara başvurma",
+        "exampleText": "Örnekler;</br>1: Ölümden sonra bir hayat vardır, çünkü öldükten sonra yok olmak istemiyorum. (Öldükten sonra yok olmak istememeniz veya bunun sizi üzmesi, ölümden sonra başka bir hayatınız olacağına dair kanıt teşkil etmez.) </br>  </br> 2: X: Sinem bu yıl çok çalıştı ve faydalı işler yaparak hem becerisini hem de değerini kanıtladı. Başkanlık seçimlerinde ona oy vereceğim. </br> Y: Ama unuttun mu? Geçen yıl o seni aday göstermemişti.  </br>  X: Haklısın, vazgeçtim.  </br> (Nefrete veya kine başvurma) </br>  </br> 3: Suçladığınız bu adam tekerlekli sandalyede! Bu haliyle sizce yolsuzluk yapmış olabilir mi? </br> (Acıma duygusuna başvurma) </br>  </br> 4: Senin gibi akıllı bir insanın bu önerime karşı çıktığına inanamıyorum! </br> (Gurura başvurma, yağ çekme) </br>  </br> 5:  Allah’a inanmalısın; inanmazsan cehenneme gidersin. </br> (Korkuya başvurma)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is appeal to emotion",
-                "description": "You attempted to manipulate an emotional response in place of a valid or compelling argument."
+                "title": "Düştüğün mantık hatası: duygulara başvurma",
+                "description": "Geçerli ve ikna edici bir argümanı duygusal bir tepkiye başvurarak çürütmeye çalıştınız!"
             },
             "og": {
-                "og:title": "Your logical fallacy is appeal to emotion",
-                "og:description": "You attempted to manipulate an emotional response in place of a valid or compelling argument.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/009\/original\/03-appeal-to-emotion.png",
+                "og:title": "Düştüğün mantık hatası: duygulara başvurma",
+                "og:description": "Geçerli ve ikna edici bir argümanı duygusal bir tepkiye başvurarak çürütmeye çalıştınız!",
+                "og:image": "http://localhost/ylfi/assets/images/og/03-duygulara-basvurma.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "the-fallacy-fallacy",
-        "title": "the fallacy fallacy",
-        "slug": "the-fallacy-fallacy",
-        "head": "You presumed that because a claim has been poorly argued, or a fallacy has been made, that the claim itself must be wrong.",
-        "first": "Presuming that because a claim has been poorly argued, or a fallacy has been made, that the claim itself must be wrong.",
-        "description": "It is entirely possible to make a claim that is false yet argue with logical coherency for that claim, just as is possible to make a claim that is true and justify it with various fallacies and poor&nbsp;arguments.",
-        "pageTitle": "Your logical fallacy is the fallacy fallacy",
-        "exampleText": "Example: Recognising that Amanda had committed a fallacy in arguing that we should eat healthy food because a nutritionist said it was popular, Alyse said we should therefore eat bacon double cheeseburgers every day.",
+        "name": "yanilgi-argumani",
+        "title": "yanılgı argümanı",
+        "slug": "yanilgi-argumani",
+        "head": "Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen bir iddianın hepten yanlış olduğunu öne sürdünüz!",
+        "first": "Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen bir iddianın hepten yanlış olduğunu öne sürdünüz!",
+        "description": "Bir görüş, taraftarlarının onu nasıl savunduğuna bağımlı olmaksızın doğru veya hatalı olabilir. Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen iddialar, onu savunan kişinin kullandığı ikna yönteminden veya gerekçelerinden bağımsız olarak değerlendirilmelidir. Doğrusu, iddiayı savunan kişiye değil, iddianın kendisine bakmaktır. Mantık yanılgılarını çok iyi biliyor olabilirsiniz ama bu türünü de unutmayın; ukalalık yapmaya çalışırken bir başka yanılgıya düşmeyin! :)",
+        "pageTitle": "Düştüğün mantık hatası: yanılgı argümanı",
+        "exampleText": "Örnek;</br>Çiğdem: Son zamanlarda birçok insan hazır gıdalardan uzak duruyor; artık eskisi gibi popüler değil. Demek ki hazır gıdalar sağlıksız. </br> Deniz: Üzgünüm Çiğdem ama burada resmen popülerlik yanılgısına düşüyorsun. </br>Demek ki hazır gıdalar yemek gayet sağlıklı. </br> </br>(Sırf popüler olduğu için belli bir beslenme şekline uymak ne kadar saçmaysa; bunu söyleyen kişinin yanıltıcı bir gerekçe -popüler olması- sunmasından yola çıkarak öneriyi hepten yanlış saymak da bir o kadar hatalıdır. Burada önemsenmesi gereken tek konu, hazır gıdaların gerçekten de sağlıksız olup olmadığıdır.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is the fallacy fallacy",
-                "description": "You presumed that because a claim has been poorly argued, or a fallacy has been made, that the claim itself must be wrong."
+                "title": "Düştüğün mantık hatası: yanılgı argümanı",
+                "description": "Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen bir iddianın hepten yanlış olduğunu öne sürdünüz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is the fallacy fallacy",
-                "og:description": "You presumed that because a claim has been poorly argued, or a fallacy has been made, that the claim itself must be wrong.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/025\/original\/04-the-fallacy-fallacy.png",
+                "og:title": "Düştüğün mantık hatası: yanılgı argümanı",
+                "og:description": "Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen bir iddianın hepten yanlış olduğunu öne sürdünüz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/04-yanilgi-argumani.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "slippery-slope",
-        "title": "slippery slope",
-        "slug": "slippery-slope",
-        "head": "You said that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.",
-        "first": "Asserting that if we allow A to happen, then Z will consequently happen too, therefore A should not happen.",
-        "description": "The problem with this reasoning is that it avoids engaging with the issue at hand, and instead shifts attention to extreme hypotheticals. Because no proof is presented to show that such extreme hypotheticals will in fact occur, this fallacy has the form of an appeal to emotion fallacy by leveraging fear. In effect the argument at hand is unfairly tainted by unsubstantiated&nbsp;conjecture.",
-        "pageTitle": "Your logical fallacy is slippery slope",
-        "exampleText": "Example: Colin Closet asserts that if we allow same-sex couples to marry, then the next thing we know we'll be allowing people to marry their parents, their cars and even monkeys.",
+        "name": "kaygan-zemin",
+        "title": "kaygan zemin",
+        "slug": "kaygan-zemin",
+        "head": "Zemine dikkat! Hiçbir mantıklı gerekçeniz bulunmadığı halde, A olayının gerçekleşmesi durumunda B olayının da mutlaka gerçekleşeceğini iddia ettiniz!",
+        "first": "Zemine dikkat! Hiçbir mantıklı gerekçeniz bulunmadığı halde, A olayının gerçekleşmesi durumunda B olayının da mutlaka gerçekleşeceğini iddia ettiniz!",
+        "description": "Bu yanılgı türünde hiçbir mantıklı gerekçe sunulmaksızın, A’nın kabul edilmesi halinde zincirleme bir reaksiyon şeklinde en uçtaki (en alakasız) bir Z olayının da gerçekleşeceği iddia edilir. Varılan bu nihai Z noktası da genellikle olumsuz bir olaydır. Bir şeyin başka bir şeye yol açacağını iddia ediyorsanız, bu iddianızı destekleyen gerçekçi ve tutarlı gerekçeler göstermeniz gerekir. Birçok durumda olaylar arasında bir dizi ara aşama (basamak) bulunur. Bu basamaklar arasındaki ilişkiyi ne kadar iyi gerekçelendirirseniz, argümanınız da o kadar sağlam olur. Ama kaygan zemin yanılgısına düşen bir kişi bu durumu göz ardı eder, basamaklar arasındaki bağlantılara dair bir açıklama sunmaz ve dolayısıyla da olaylar arasında sağlam bir zemin oluşturmadan (kaygan bir zemin oluşturarak) desteksiz bir iddiada bulunur. Böylece eldeki argümanlara cevap vermek yerine konuyu uç örneklere kaydırmış olur. Kanıtlı gerekçelerle desteklenmeyen böylesi varsayımlar genellikle Duygulara Başvurma (korku, acı, öfke vb), Sonuçlara atıfta bulunma ve Hatalı ikilem yanılgılarını da içerir; böylece desteksiz bir varsayımın etkisi daha da artırılmış olur. ",
+        "pageTitle": "Düştüğün mantık hatası: kaygan zemin",
+        "exampleText": "Örnek;</br>Eşcinsel çiftlerin evlenmesine izin verirsek, insanların kardeşleriyle ve hatta bir gün maymunlarla veya arabalarıyla evlenmesi bile yasal hale gelir. Bu nedenle eşcinsellerin evlenmesi yasaklanmalıdır.</br></br>(Eşcinsel çiftlerin evlenebilmesinin sıralanan bu abartılı sonuçlarla bir ilgisi yoktur.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is slippery slope",
-                "description": "You said that if we allow A to happen, then Z will eventually happen too, therefore A should not happen."
+                "title": "Düştüğün mantık hatası: kaygan zemin",
+                "description": "Zemine dikkat! Hiçbir mantıklı gerekçeniz bulunmadığı halde, A olayının gerçekleşmesi durumunda B olayının da mutlaka gerçekleşeceğini iddia ettiniz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is slippery slope",
-                "og:description": "You said that if we allow A to happen, then Z will eventually happen too, therefore A should not happen.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/022\/original\/05-slippery-slope.png",
+                "og:title": "Düştüğün mantık hatası: kaygan zemin",
+                "og:description": "Zemine dikkat! Hiçbir mantıklı gerekçeniz bulunmadığı halde, A olayının gerçekleşmesi durumunda B olayının da mutlaka gerçekleşeceğini iddia ettiniz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/05-kaygan-zemin.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "ad-hominem",
-        "title": "ad hominem",
-        "slug": "ad-hominem",
-        "head": "You attacked your opponent's character or personal traits in an attempt to undermine their argument.",
-        "first": "Attacking your opponent's character or personal traits in an attempt to undermine their argument.",
-        "description": "Ad hominem attacks can take the form of overtly attacking somebody, or more subtly casting doubt on their character or personal attributes as a way to discredit their argument. The result of an ad hom attack can be to undermine someone's case without actually having to engage with&nbsp;it.",
-        "pageTitle": "Your logical fallacy is ad hominem",
-        "exampleText": "Example: After Sally presents an eloquent and compelling case for a more equitable taxation system, Sam asks the audience whether we should believe anything from a woman who isn't married, was once arrested, and smells a bit weird.",
+        "name": "kisiye-saldiri",
+        "title": "kişiye saldırı",
+        "slug": "kisiye-saldiri",
+        "head": "Tartışılan konunun özüne ve içeriğine değil, iddia sahibinin kişiliğine veya kişisel özelliklerine saldırdınız!",
+        "first": "Tartışılan konunun özüne ve içeriğine değil, iddia sahibinin kişiliğine veya kişisel özelliklerine saldırdınız!",
+        "description": "(<i>Ad Hominem</i> / Lat. <i>argumentum ad hominem</i>)</br>Bu mantık yanılgısı açıkça kişiye saldırarak veya daha sinsi bir şekilde onun kişiliği ya da kişisel özellikleri konusunda şüphe uyandırarak, iddiasını itibarsızlaştırma çabası şeklinde ortaya çıkar. Böylece bir karşı iddia ortaya atmaksızın ve konuyla ilgili gerçek bir fikir tartışmasına girmeksizin karşı tarafin argümanını çürütmeye çalışmış olursunuz. Öne sürülen bir fikri, o fikrin sahibine saldırarak çürütmeye çalışmak hatalı ve verimsiz bir tartışma yöntemidir, çünkü bir insanın kişiliğinin o kişinin öne sürdüğü argümanın doğruluğu üzerinde herhangi bir etkisi yoktur. Karşıt fikri doğru bir şekilde savunmanın yolu karşı tarafa hakaret ederek onu kendisine yöneltilen kişisel eleştiriye cevap vermek zorunda bırakmak veya dinleyenlerin gözünde onu küçülterek güvenilirliğini zedelemeye çalışmak değil; öne sürülen iddianın içeriğine yönelik fikir beyan etmektir. Yani iddia sahibi kim olursa olsun, iddiasının doğruluğu onun kişiliğinden bağımsız olarak değerlendirilmelidir. Sonuçta öne sürdüğü görüş ya geçerlidir, ya da değildir. Burada dikkat edilmesi gereken bir nokta da, hakaretin veya suçlamanın doğruluğunun herhangi bir önemi olmadığıdır (1. örnekte olduğu gibi).",
+        "pageTitle": "Düştüğün mantık hatası: kişiye saldırı",
+        "exampleText": "Örnekler;</br>1: Ahmet daha tarafsız ve etkili bir sınıflandırma yöntemi kullanılmasını önerir. Mehmet ise evli olmayan, bir zamanlar tutuklanmış olan ve biraz da garip kokan (?!) Ahmet gibi bir insanın fikirlerine güvenemeyeceğimizi söyleyerek onun önerisine karşı çıkar.</br>(Ahmet’in bekar olması, geçmişte tutuklanmış olması veya kötü kokması, önerisinin geçersiz veya hatalı olduğunu göstermez. Ayrıca bunlar doğru olmasaydı da -Ahmet evli olsaydı, hiç tutuklanmamış olsaydı vs- bir şey değişmezdi; her iki durumda da bu yöntemle tartışmak bir Kişiye Saldırı hatası olur. Ahmet’in önerisine, bu önerinin hatalı bulduğunuz yönlerini ortaya dökerek itiraz etmeniz gerekir.)</br></br>2: 'Darwin ırkçının tekiydi; bu yüzden onun evrim teorisi de bilimsel olarak geçersizdir.'</br>(Darwin ırkçı olsaydı bile -ki aslında tam tersidir- bu durum, Darwin'in evrim teorisini ve ona dair bilimsel kanıtların geçerliliğini etkilemezdi. Darwin'in evrim teorisinin savunulacak bir yanı olmadığını düşünüyorsanız, bu iddianızı bilimsel kanıtlarla tartışmanız ve evrim kuramının hatalı olduğuna ilişkin -varsa- somut kanıtlar öne sürmeniz gerekir.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is ad hominem",
-                "description": "You attacked your opponent's character or personal traits in an attempt to undermine their argument."
+                "title": "Düştüğün mantık hatası: kişiye saldırı",
+                "description": "Tartışılan konunun özüne ve içeriğine değil, iddia sahibinin kişiliğine veya kişisel özelliklerine saldırdınız!"
             },
             "og": {
-                "og:title": "Your logical fallacy is ad hominem",
-                "og:description": "You attacked your opponent's character or personal traits in an attempt to undermine their argument.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/005\/original\/06-ad-hom.png",
+                "og:title": "Düştüğün mantık hatası: kişiye saldırı",
+                "og:description": "Tartışılan konunun özüne ve içeriğine değil, iddia sahibinin kişiliğine veya kişisel özelliklerine saldırdınız!",
+                "og:image": "http://localhost/ylfi/assets/images/og/06-kisiye-saldiri.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "tu-quoque",
-        "title": "tu quoque",
-        "slug": "tu-quoque",
-        "head": "You avoided having to engage with criticism by turning it back on the accuser - you answered criticism with criticism.",
-        "first": "Avoiding having to engage with criticism by turning it back on the accuser - answering criticism with criticism.",
-        "description": "Pronounced too-kwo-kwee. Literally translating as 'you too' this fallacy is also known as the appeal to hypocrisy. It is commonly employed as an effective red herring because it takes the heat off someone having to defend their argument, and instead shifts the focus back on to the person making the criticism.",
-        "pageTitle": "Your logical fallacy is tu quoque",
-        "exampleText": "Example: Nicole identified that Hannah had committed a logical fallacy, but instead of addressing the substance of her claim, Hannah accused Nicole of committing a fallacy earlier on in the conversation.",
+        "name": "elestiriye-cevap-verme",
+        "title": "eleştiriyle cevap verme",
+        "slug": "elestiriye-cevap-verme",
+        "head": "Size yöneltilen eleştiriye, sizi eleştiren kişiyi geri eleştirerek yanıt verdiniz!",
+        "first": "Size yöneltilen eleştiriye, sizi eleştiren kişiyi geri eleştirerek yanıt verdiniz!",
+        "description": "<i>Tu quoque</i> Latince bir terimdir ve 'sen de' anlamına gelir. Bu hatalı argüman türü, Adam karalama (ad hominem) yanılgısının bir çeşididir ve sadece eleştiriyi yapan kişiye yöneliktir; dolayısıyla iddianın veya eleştirinin içeriğine dair bir karşıt iddia içermez. Karşı çıkılan iddia sahibinin iki yüzlülükle suçlanması, iddianın özünden uzaklaşılmasına ve hattâ bu iddianın konu bile edilmemesine neden olur.</br>Kısacası, kıvırmayın :)",
+        "pageTitle": "Düştüğün mantık hatası: eleştiriyle cevap verme",
+        "exampleText": "Örnekler;</br>1: Neşe: Sigara içmek sağlığın için çok zararlı.</br>Selen: Ama sen de içiyorsun!</br>(Selen’in itirazı sigara içmenin sağlığa zararlı oluşuna değil, bunu söyleyen Neşe’nin seçimine yöneliktir. Neşe’nin sigara içiyor olması, sigaranın sağlığa zararlı olmadığı veya Neşe’nin bunu söylememesi gerektiği anlamına gelmez.)</br></br>2: Ozan: Türkiye düşünce özgürlüğü bakımından batı ülkelerine kıyasla çok geride.</br>Hakan: O zaman sen neden burada yaşıyorsun? Git orada yaşa!</br>(Hakan’ın saldırısı Ozan’ın sunduğu fikre değil, ülke seçimine yöneliktir ve Türkiye’deki düşünce özgürlüğü hakkında herhangi bir sav içermez. Dolayısıyla Ozan’ın görüşünü çürütme yolunda bir adım bile değildir.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is tu quoque",
-                "description": "You avoided having to engage with criticism by turning it back on the accuser - you answered criticism with criticism."
+                "title": "Düştüğün mantık hatası: eleştiriyle cevap verme",
+                "description": "Size yöneltilen eleştiriye, sizi eleştiren kişiyi geri eleştirerek yanıt verdiniz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is tu quoque",
-                "og:description": "You avoided having to engage with criticism by turning it back on the accuser - you answered criticism with criticism.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/028\/original\/07-tu-quoque.png",
+                "og:title": "Düştüğün mantık hatası: eleştiriyle cevap verme",
+                "og:description": "Size yöneltilen eleştiriye, sizi eleştiren kişiyi geri eleştirerek yanıt verdiniz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/07-elestiriye-cevap-verme.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "personal-incredulity",
-        "title": "personal incredulity",
-        "slug": "personal-incredulity",
-        "head": "Because you found something difficult to understand, or are unaware of how it works, you made out like it's probably not true.",
-        "first": "Saying that because one finds something difficult to understand that it's therefore not true.",
-        "description": "Complex subjects like biological evolution through natural selection require some amount of understanding before one is able to make an informed judgement about the subject at hand; this fallacy is usually used in place of that&nbsp;understanding.",
-        "pageTitle": "Your logical fallacy is personal incredulity",
-        "exampleText": "Example: Kirk drew a picture of a fish and a human and with effusive disdain asked Richard if he really thought we were stupid enough to believe that a fish somehow turned into a human through just, like, random things happening over time.",
+        "name": "inanilmazlik-argumani",
+        "title": "inanılmazlık argümanı",
+        "slug": "inanilmazlik-argumani",
+        "head": "Siz bir şeyi anlamakta zorlanıyorsunuz ya da nasıl işlediği hakkında fikriniz yok diye o şey doğru olamaz, öyle mi?",
+        "first": "Siz bir şeyi anlamakta zorlanıyorsunuz ya da nasıl işlediği hakkında fikriniz yok diye o şey doğru olamaz, öyle mi?",
+        "description": "(ing. <i>Personal incredulity</i>)</br>Biyolojik evrimden, kuantum alan teorisine kadar birçok alan ve konu size yabancı olabilir veya bunları algılamakta güçlük çekebilirsiniz. Buraya kadar bir sorun yok. Ancak konuya dair yapılan açıklamaları ve önermeleri doğru olamayacak kadar karmaşık bulmanız, size o açıklamaların/önermelerin doğru olamayacağına hükmetme ayrıcalığı tanımaz.",
+        "pageTitle": "Düştüğün mantık hatası: inanılmazlık argümanı",
+        "exampleText": "Örnek;</br>Bu kadar karmaşık yapılar nasıl evrilmiş olabilir?</br>(Sırf kendi havsalanız almıyor ya da o konu hakkındaki bilgileriniz/bilgilerimiz sınırlı diye bir şeyin doğru olamayacağı sonucuna zıplamak, tipik bir inanılmazlık argümanı örneğidir. Zira başkaları pekala bu zor konuları anlıyor olabilir. (bkz. <u><a href=\"http://arsiv.ozgurdusuncehareketi.org/yazi/bu-kadar-karmasik-yapilar-nasil-evrilmis-olabilir/\">Bu kadar karmaşık yapılar nasıl evrilmiş olabilir</a></u>?)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is personal incredulity",
-                "description": "Because you found something difficult to understand, or are unaware of how it works, you made out like it's probably not true."
+                "title": "Düştüğün mantık hatası: inanılmazlık argümanı",
+                "description": "Siz bir şeyi anlamakta zorlanıyorsunuz ya da nasıl işlediği hakkında fikriniz yok diye o şey doğru olamaz, öyle mi?"
             },
             "og": {
-                "og:title": "Your logical fallacy is personal incredulity",
-                "og:description": "Because you found something difficult to understand, or are unaware of how it works, you made out like it's probably not true.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/021\/original\/08-personal-incredulity.png",
+                "og:title": "Düştüğün mantık hatası: inanılmazlık argümanı",
+                "og:description": "Siz bir şeyi anlamakta zorlanıyorsunuz ya da nasıl işlediği hakkında fikriniz yok diye o şey doğru olamaz, öyle mi?",
+                "og:image": "http://localhost/ylfi/assets/images/og/08-inanilmazlik-argumani.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "special-pleading",
-        "title": "special pleading",
-        "slug": "special-pleading",
-        "head": "You moved the goalposts or made up an exception when your claim was shown to be false.",
-        "first": "Moving the goalposts or making up exceptions when a claim is shown to be false.",
-        "description": "Humans are funny creatures and have a foolish aversion to being wrong. Rather than appreciate the benefits of being able to change one's mind through better understanding, many will invent ways to cling to old beliefs. One of the most common ways that people do this is to post-rationalize a reason why what they thought to be true must remain to be true. It's usually very easy to find a reason to believe something that suits us, and it requires integrity and genuine honesty with oneself to examine one's own beliefs and motivations without falling into the trap of justifying our existing ways of seeing ourselves and the world around&nbsp;us.",
-        "pageTitle": "Your logical fallacy is special pleading",
-        "exampleText": "Example: Edward Johns claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. Edward explained this saying that one had to have faith in his abilities for them to work.",
+        "name": "yan-cizme",
+        "title": "yan çizme",
+        "slug": "yan-cizme",
+        "head": "İddianızın yanlış olduğu ortaya çıkınca, özgün kriterleri değiştirerek iddianız için istisnai bir durum yaratmaya çalıştınız!",
+        "first": "İddianızın yanlış olduğu ortaya çıkınca, özgün kriterleri değiştirerek iddianız için istisnai bir durum yaratmaya çalıştınız!",
+        "description": "İnsanlar gerçekten de yanıldıklarını kabul etmeyi sevmeyen, tuhaf canlılar :) Burada iddiayı ortaya atan kişi, genel kabul gören bir ilkeyi veya başlangıçta kendisinin sunduğu bir kriteri işine geldiği gibi değiştirir veya kendisini bu kriterden muaf tutmaya kalkışır. Dolayısıyla kendisi için bir “özel durum” veya “istisna” yaratmaya çalışır. Normalde bu istisnai durumun geçerli sayılabilmesi için, belirtilen kişiler veya durumlar arasında mevcut iddiayla çelişmeyen bir fark bulunması gerekir; eğer bu fark yoksa iddia tutarsızdır. Bu yanılgıya düşen bir kişi, sunduğu iddianın geçerli olması için, başlangıçta kabul ettiği ama savunduğu konuyla çelişen argüman veya olayları yok sayarak mantıklı bir tartışma zemininden kaçınmayı amaçlar.",
+        "pageTitle": "Düştüğün mantık hatası: yan çizme",
+        "exampleText": "Örnekler;</br>1: Dinlerin insanları her zaman ahlaklı yaptığını savunan bir kişi, buna kanıt olarak kutsal kitabında yer alan ve iyi ahlaka işaret eden ayetleri gösterir; ama aynı kutsal kitaptaki hiç de “iyicil” olmayan ayetleri (köleliği savunan, kadınlara ikinci sınıf vatandaş gözüyle bakan, barışı değil savaşı teşvik eden ayetler vb) görmezden gelir veya bunlar için tutarsız bahaneler ortaya atar.</br>(İddia sahibi sadece işine gelen ayetleri kanıt olarak sunmayı seçip diğerlerini bu değerlendirmeden muaf tutarak kendisiyle çelişiyor.)</br></br>2: Geleceği görebildiğini iddia eden bir medyumun yetenekleri bilimsel bir teste tabi tutulur. Test sırasında yetenekleri sihirli (?!) bir şekilde uçup giden medyum, bu durumu şöyle savunmaya kalkar: \"Yeteneklerimin ortaya çıkması için karşımda ona inanan kişilerin bulunması gerekiyor!\" ",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is special pleading",
-                "description": "You moved the goalposts or made up an exception when your claim was shown to be false."
+                "title": "Düştüğün mantık hatası: yan çizme",
+                "description": "İddianızın yanlış olduğu ortaya çıkınca, özgün kriterleri değiştirerek iddianız için istisnai bir durum yaratmaya çalıştınız!"
             },
             "og": {
-                "og:title": "Your logical fallacy is special pleading",
-                "og:description": "You moved the goalposts or made up an exception when your claim was shown to be false.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/023\/original\/09-special-pleading.png",
+                "og:title": "Düştüğün mantık hatası: yan çizme",
+                "og:description": "İddianızın yanlış olduğu ortaya çıkınca, özgün kriterleri değiştirerek iddianız için istisnai bir durum yaratmaya çalıştınız!",
+                "og:image": "http://localhost/ylfi/assets/images/og/09-yan-cizme.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "loaded-question",
-        "title": "loaded question",
-        "slug": "loaded-question",
-        "head": "You asked a question that had a presumption built into it so that it couldn't be answered without appearing guilty.",
-        "first": "Asking a question that has a presumption built into it so that it can't be answered without appearing guilty.",
-        "description": "Loaded question fallacies are particularly effective at derailing rational debates because of their inflammatory nature - the recipient of the loaded question is compelled to defend themselves and may appear flustered or on the back&nbsp;foot.",
-        "pageTitle": "Your logical fallacy is loaded question",
-        "exampleText": "Example: Grace and Helen were both romantically interested in Brad. One day, with Brad sitting within earshot, Grace asked in an inquisitive tone whether Helen was having any problems with a drug habit. ",
+        "name": "gudumlu-soru",
+        "title": "güdümlü soru",
+        "slug": "gudumlu-soru",
+        "head": "Soruyu amacınıza hizmet eden desteksiz varsayımlara dayandırarak sordunuz. Çok çakal gördük sizi!",
+        "first": "Soruyu amacınıza hizmet eden desteksiz varsayımlara dayandırarak sordunuz. Çok çakal gördük sizi!",
+        "description": "(ing. <i>Loaded question</i>)</br>Bu taktik sanıklara istediklerini söyletmek isteyen avukatlar tarafından kullanıldığında işe yarayabilir ama bize sökmez! Güdümlü sorular, rasyonel tartışmaları rayından çıkarmak için özellikle etkili yanılgılardır. Sorunun yöneltildiği kişi soruyu cevaplamaya çalıştığında kendisini savunma poziyonunda bulabilir; cevaplamak istemezse de sorudan kaçıyormuş gibi görünebilir. Sorular varsayımlara dayandırılarak kurgulanmamalı; içeriğindeki varsayımları destekleyen mantıksal gerekçeler kullanılarak formüle edilmelidir. ",
+        "pageTitle": "Düştüğün mantık hatası: güdümlü soru",
+        "exampleText": "Örnek;</br>Ateistler içlerindeki boşluğu neyle dolduruyor?</br>(Soruyu soran kişi, “ateistlerin içinde bir boşluk olduğu” varsayımını neye dayandırdığını belirtmemiş, aksine bunun doğru olduğunu varsayarak soruyu yöneltmiştir. Bir ateist bu soruya “x,y,z” ile dolduruyorum derse, içinde bir boşluk olduğunu kabul etmiş olur. Oysa  bu kişi, bir tanrı fikrini hayatına hiçbir zaman dahil etmemiş olabilir; dolayısıyla bu kişi için tanrı fikrinin yokluğunda oluşacak bir boşluktan da söz edilemez. Tabi ki bu örnek, tanrı fikrini bir zamanlar hayatının parçası yapmış bir kişinin, bu fikrin yokluğunda boşluk hissedeceği anlamına da gelmez!)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is loaded question",
-                "description": "You asked a question that had a presumption built into it so that it couldn't be answered without appearing guilty."
+                "title": "Düştüğün mantık hatası: güdümlü soru",
+                "description": "Soruyu amacınıza hizmet eden desteksiz varsayımlara dayandırarak sordunuz. Çok çakal gördük sizi!"
             },
             "og": {
-                "og:title": "Your logical fallacy is loaded question",
-                "og:description": "You asked a question that had a presumption built into it so that it couldn't be answered without appearing guilty.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/018\/original\/10-loaded-question.png",
+                "og:title": "Düştüğün mantık hatası: güdümlü soru",
+                "og:description": "Soruyu amacınıza hizmet eden desteksiz varsayımlara dayandırarak sordunuz. Çok çakal gördük sizi!",
+                "og:image": "http://localhost/ylfi/assets/images/og/10-gudumlu-soru.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "burden-of-proof",
-        "title": "burden of proof",
-        "slug": "burden-of-proof",
-        "head": "You said that the burden of proof lies not with the person making the claim, but with someone else to disprove.",
-        "first": "Saying that the burden of proof lies not with the person making the claim, but with someone else to disprove.",
-        "description": "The burden of proof lies with someone who is making a claim, and is not upon anyone else to disprove. The inability, or disinclination, to disprove a claim does not render that claim valid, nor give it any credence whatsoever. However it is important to note that we can never be certain of anything, and so we must assign value to any claim based on the available evidence, and to dismiss something on the basis that it hasn't been proven beyond all doubt is also fallacious&nbsp;reasoning.",
-        "pageTitle": "Your logical fallacy is burden of proof",
-        "exampleText": "Example: Bertrand declares that a teapot is, at this very moment, in orbit around the Sun between the Earth and Mars, and that because no one can prove him wrong, his claim is therefore a valid one.",
+        "name": "ispat-yukumlulugu",
+        "title": "ispat yükümlülüğü",
+        "slug": "ispat-yukumlulugu",
+        "head": "İddiayı, ortaya atan kişinin kanıtlamasının değil, başkasının çürütmesi gerektiğini savundunuz!",
+        "first": "İddiayı, ortaya atan kişinin kanıtlamasının değil, başkasının çürütmesi gerektiğini savundunuz!",
+        "description": "(ing. <i>Burden of proof</i>)</br>İspat yükümlülüğü, iddiayı ortaya atan kişiye aittir; yani karşıdaki kişinin, iddiayı ortaya atandan ispat isteme hakkı vardır. İddia sahibi kendi iddiasına dair kanıt göstermeksizin, bu iddianın hatalı olduğunu düşünen kişiden onu çürütmesini isterse, ispat yükümlülüğü yanılgısına düşmüş olur. İddianın doğru olmadığını düşünen kişinin iddiayı çürütmekte başarısız olması veya bunu yapmayı istememesi, iddianızın geçerliliğini ispatlamaz. Ancak her iddiayı da eldeki ulaşılabilir kanıtlar çerçevesinde değerlendirmek gerekir; tüm makul şüphelerin ötesinde ispatlanmadığı için bir iddiayı hepten reddetmek de bir yanılgıdır.",
+        "pageTitle": "Düştüğün mantık hatası: ispat yükümlülüğü",
+        "exampleText": "Örnek;</br>Ali: Tanrı var.</br>Cenk: İspat et?</br>Ali: Esas sen <i>olmadığını</i> ispat et!</br>(Burada iddiada bulunan kişi Ali olduğu için ispat yükümlülüğü de ona aittir. Ali mantık yanılgısına düşmeden bu iddiasını savunmak istiyorsa, Cenk’ten Tanrı’nın var olmadığını kanıtlamasını talep etmek yerine kendi iddiasını -yani Tanrı’nın var olduğunu- ispatlamalıdır.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is burden of proof",
-                "description": "You said that the burden of proof lies not with the person making the claim, but with someone else to disprove."
+                "title": "Düştüğün mantık hatası: ispat yükümlülüğü",
+                "description": "İddiayı, ortaya atan kişinin kanıtlamasının değil, başkasının çürütmesi gerektiğini savundunuz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is burden of proof",
-                "og:description": "You said that the burden of proof lies not with the person making the claim, but with someone else to disprove.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/014\/original\/11-burden-of-proof.png",
+                "og:title": "Düştüğün mantık hatası: ispat yükümlülüğü",
+                "og:description": "İddiayı, ortaya atan kişinin kanıtlamasının değil, başkasının çürütmesi gerektiğini savundunuz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/11-ispat-yukumlulugu.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "ambiguity",
-        "title": "ambiguity",
-        "slug": "ambiguity",
-        "head": "You used a double meaning or ambiguity of language to mislead or misrepresent the truth.",
-        "first": "Using double meanings or ambiguities of language to mislead or misrepresent the truth.",
-        "description": "Politicians are often guilty of using ambiguity to mislead and will later point to how they were technically not outright lying if they come under scrutiny. The reason that it qualifies as a fallacy is that it is intrinsically&nbsp;misleading.",
-        "pageTitle": "Your logical fallacy is ambiguity",
-        "exampleText": "Example: When the judge asked the defendant why he hadn't paid his parking fines, he said that he shouldn't have to pay them because the sign said 'Fine for parking here' and so he naturally presumed that it would be fine to park there.",
+        "name": "anlam-kargasasi",
+        "title": "anlam kargaşası",
+        "slug": "anlam-kargasasi",
+        "head": "Gerçeği saptırmak veya karşınızdakini yanlış yönlendirmek için birden fazla anlama gelebilecek sözcükler ya da muğlak bir dil kullandınız!",
+        "first": "Gerçeği saptırmak veya karşınızdakini yanlış yönlendirmek için birden fazla anlama gelebilecek sözcükler ya da muğlak bir dil kullandınız!",
+        "description": "(ing. <i>Ambiguity</i>)</br>Politikacıların belki de düşmeyi en sevdiği yanılgı budur! Bu yanılgıyı kısaca, “birden fazla anlama sahip olan sözcükleri işine geldiği gibi kullanmak” şeklinde tanımlayabiliriz. Bu taktiği bilmeden uygulayıp yanılgıya düşenler; hadi sizi affettik. Ancak tartışmayı manipüle etmek veya gerçekleri bilerek ve isteyerek çarpıtmak amacıyla bu yolu kullananlar için aynı şeyi söyleyemeyeceğiz. Argümanınız bilinçli bir yanıltma niyeti taşıdığı için onu bir mantık yanılgısı olarak etiketlemek durumundayız.",
+        "pageTitle": "Düştüğün mantık hatası: anlam kargaşası",
+        "exampleText": "Örnek;</br>Evrim sadece bir teoridir.</br>(Yani? Evet, evrim bir teoridir, ama bilimsel bir teoridir. Bilimsel terminolojide “teori” kelimesi, bu kelimenin günlük hayattaki kullanımında olduğu gibi varsayım, spekülasyon ya da kişisel görüş veya kanı anlamına gelmez. Bilimsel teori, bir olgu veya gerçekler grubunun açıklaması olarak kabul edilen bir fikir, ifadeler sistemi veya taslağı; gözlem veya deneylerle doğrulanmış bir tezdir. Evrim, kütleçekimi/yerçekimi teorisiyle aynı anlamda bir teoridir.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is ambiguity",
-                "description": "You used a double meaning or ambiguity of language to mislead or misrepresent the truth."
+                "title": "Düştüğün mantık hatası: anlam kargaşası",
+                "description": "Gerçeği saptırmak veya karşınızdakini yanlış yönlendirmek için birden fazla anlama gelebilecek sözcükler ya da muğlak bir dil kullandınız!"
             },
             "og": {
-                "og:title": "Your logical fallacy is ambiguity",
-                "og:description": "You used a double meaning or ambiguity of language to mislead or misrepresent the truth.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/006\/original\/12-ambiguity.png",
+                "og:title": "Düştüğün mantık hatası: anlam kargaşası",
+                "og:description": "Gerçeği saptırmak veya karşınızdakini yanlış yönlendirmek için birden fazla anlama gelebilecek sözcükler ya da muğlak bir dil kullandınız!",
+                "og:image": "http://localhost/ylfi/assets/images/og/12-anlam-kargasasi.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "the-gamblers-fallacy",
-        "title": "the gambler's fallacy",
-        "slug": "the-gamblers-fallacy",
-        "head": "You said that 'runs' occur to statistically independent phenomena such as roulette wheel spins.",
-        "first": "Believing that 'runs' occur to statistically independent phenomena such as roulette wheel spins.",
-        "description": "This commonly believed fallacy can be said to have helped create an entire city in the desert of Nevada USA. Though the overall odds of a 'big run' happening may be low, each spin of the wheel is itself entirely independent from the last. So whilst there may be a very small chance that heads will come up 20 times in a row if you flip a coin, the chances of heads coming up on each individual flip remain 50\/50, and aren't influenced by what happened before.",
-        "pageTitle": "Your logical fallacy is the gambler's fallacy",
-        "exampleText": "Example: Red had come up six times in a row on the roulette wheel, so Greg knew that it was close to certain that black would be next up. Suffering an economic form of natural selection with this thinking, he soon lost all of his savings.",
+        "name": "kumarbaz-yanilgisi",
+        "title": "kumarbaz yanılgısı",
+        "slug": "kumarbaz-yanilgisi",
+        "head": "Bir olay geçmişte beklenenden sık gerçekleşti diye, gelecekte daha az gerçekleşmesi gerektiğini iddia ettiniz!",
+        "first": "Bir olay geçmişte beklenenden sık gerçekleşti diye, gelecekte daha az gerçekleşmesi gerektiğini iddia ettiniz!",
+        "description": "(<i>The Gambler's fallacy</i> veya <i>Monte Carlo fallacy</i>)</br>Özellikle kumar oyunlarında sıkça düşülen bir yanılgı olması nedeniyle bu ismi almıştır. Olasılık teorisinde, şansa bağlı her olay ya da oluşum bir öncekinden bağımsızdır; bu gerçeğin reddedilmesi halinde kumarbaz yanılgısına düşülür. Eşit olasılığa sahip olaylardan birisi beklenenden sık ortaya çıktı diye, bundan sonra ortaya çıkma şansının azaldığını varsaymak hatadır. Aynı bağlamda, insan hayatındaki kişisel ve çevresel faktörleri göz ardı ederek gelecekte yaşanacak olaylara metafizik açıklamalar üretmek de hatalı bir yaklaşımdır.",
+        "pageTitle": "Düştüğün mantık hatası: kumarbaz yanılgısı",
+        "exampleText": "Örnekler;</br>1: “Yazı-tura oyununda arka arkaya tam altı kez yazı geldi. Demek ki artık tura gelecek!”</br>(Yazı veya tura gelme olasılığı her atışta eşit olup % 50’dir. Bu oran bir önceki atışlardan etkilenmez; her atış diğerlerinden bağımsız bir şekilde % 50 olasılık içerir.)</br></br>2: Gülşah: Bu yıl başıma hep kötü şeyler geldi.</br>Mete: Eh, ne güzel işte; sıranı savmışsın! Artık yeni yılda hep iyi şeyler bekleyebilirsin.”</br>(İnsan hayatında meydana gelen olaylar birçok faktöre bağlıdır. Geçmişte kötü şeylerin sık yaşanmış olması, gelecekte daha az yaşanacağı anlamına gelmez. Geçmiş deneyimlerden kazanılan tecrübeler yeni felaketlerin önlenmesinde rol oynayabilir; ama bunu belirleyen şey olasılık hesapları değil, kişinin ve içinde bulunduğu ortamın şartlarıdır.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is the gambler's fallacy",
-                "description": "You said that 'runs' occur to statistically independent phenomena such as roulette wheel spins."
+                "title": "Düştüğün mantık hatası: kumarbaz yanılgısı",
+                "description": "Bir olay geçmişte beklenenden sık gerçekleşti diye, gelecekte daha az gerçekleşmesi gerektiğini iddia ettiniz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is the gambler's fallacy",
-                "og:description": "You said that 'runs' occur to statistically independent phenomena such as roulette wheel spins.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/026\/original\/13-Gamblers.png",
+                "og:title": "Düştüğün mantık hatası: kumarbaz yanılgısı",
+                "og:description": "Bir olay geçmişte beklenenden sık gerçekleşti diye, gelecekte daha az gerçekleşmesi gerektiğini iddia ettiniz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/13-kumarbaz-yanilgisi.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "bandwagon",
-        "title": "bandwagon",
-        "slug": "bandwagon",
-        "head": "You appealed to popularity or the fact that many people do something as an attempted form of validation.",
-        "first": "Appealing to popularity or the fact that many people do something as an attempted form of validation.",
-        "description": "The flaw in this argument is that the popularity of an idea has absolutely no bearing on its validity.<br \/>If it did, then the Earth would have made itself flat for most of history to accommodate this popular&nbsp;belief.",
-        "pageTitle": "Your logical fallacy is bandwagon",
-        "exampleText": "Example: Shamus pointed a drunken finger at Sean and asked him to explain how so many people could believe in leprechauns if they're only a silly old superstition. Sean, however, had had a few too many Guinness himself and fell off his chair.",
+        "name": "cogunluga-basvurma",
+        "title": "çoğunluğa başvurma",
+        "slug": "cogunluga-basvurma",
+        "head": "Bir şeyin popüler veya birçok kişi tarafından doğru bulunuyor/yapılıyor olmasının, onun doğru olduğunu gösterdiğini öne sürdünüz!",
+        "first": "Bir şeyin popüler veya birçok kişi tarafından doğru bulunuyor/yapılıyor olmasının, onun doğru olduğunu gösterdiğini öne sürdünüz!",
+        "description": "(Lat. <i>argumentum ad populum</i>)</br>Bu mantık yanılgısını Anatole France’ın şu ünlü sözüyle özetlemek mümkündür: “Saçma bir şeyi 50 kişi de söylese, o hâlâ saçma bir şeydir.” Bir argümanın doğruluğu, birçok kişinin ona inanıyor olmasına veya onunla ilgili genel kanıya hiçbir şekilde bağlı değildir; sadece ve sadece o olguya ilişkin gerçeklere bağlıdır. Popüler olana inanma davranışı en başta sürü psikolojisi etkisi (ing. Bandwagon effect) olmak üzere çeşitli sosyal eğilimlere dayanır. Zamanında birçok insan köleliğin iyi bir şey olduğuna, zencilerin beyazlardan daha aşağılık bir ırk olduğuna da inanıyordu. Geçmişte birçok insan yaygın olarak Dünya’nın düz olduğuna, bir öküzün boynuzları üstünde durduğuna, Dünya’nın evrenin merkezinde olduğuna ve Güneş’in Dünya’nın etrafında döndüğüne, hastalıkların ve doğal afetlerin Tanrı’nın gazabı olduğuna, sol elini kullananların içine şeytan girdiğine, toplu halde dans eden kadınların cadı olduğuna, eşcinselliğin bir hastalık olduğuna, şeytan çıkarma ayinlerinin işe yaradığına, kız çocuklarının okutulmaması gerektiğine vb şeylere de inanıyordu (bazı insanlar bunlardan bazılarına hâlâ inanıyor!). Örnekler artırılabilir; ama bu görüşlerin ne kadar çok kişi tarafından desteklendiği, onların doğruluğu üzerinde herhangi bir etkiye sahip değildir.</br>Not: Bilimsel gerçeklere ve alanın uzmanlarının o konudaki görüşlerine ilişkin argümanlarda durum farklıdır; çünkü bilimsel çoğunluk ile kabul gören görüşler bilimsel kanıtlara dayanır;  bunların salt inanç, kanı, iddia kategorisinde değerlendirilmemesi gerekir.",
+        "pageTitle": "Düştüğün mantık hatası: çoğunluğa başvurma",
+        "exampleText": "Örnekler;</br>1: \"Birçok insan Tanrı’nın var olduğuna inandığına göre, Tanrı vardır.\"</br>(Tanrı’nın varlığına inanmak bir seçim, adı üstünde bir “inanç”tır. Bu seçimin arkasında da sosyolojik ve psikolojik gerekçeler yatar; yani kişiseldir. Birçok insanın Tanrı’ya inanmayı seçmiş olması, bu inancın doğru olduğunu göstermez. Sonuçta tek tanrılı dinlerin ortaya çıkışından önce de insanların büyük bir çoğunluğu putlara ve doğa olaylarına inanıyor ve tapıyordu.)</br></br>2: \"Dünyanın birçok ülkesi kapitalizm ile yönetilmektedir, demek ki kapitalizm en iyi yönetim biçimidir.\"</br>(Bir sistemin veya yönetim biçiminin iyiliği [veya doğruluğu] onun yaygınlığına değil, ortaya çıkardığı toplumsal sonuçlara bakılarak değerlendirilir.)</br></br>3: \"Toplumun büyük çoğunluğu sigara içiyor, o halde sigara içmek sağlığa zararlı olamaz.\"</br>(Birçok insanın sigara içiyor olması, sigaranın sağlığa zararlı olduğu gerçeğini değiştirmez.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is bandwagon",
-                "description": "You appealed to popularity or the fact that many people do something as an attempted form of validation."
+                "title": "Düştüğün mantık hatası: çoğunluğa başvurma",
+                "description": "Bir şeyin popüler veya birçok kişi tarafından doğru bulunuyor/yapılıyor olmasının, onun doğru olduğunu gösterdiğini öne sürdünüz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is bandwagon",
-                "og:description": "You appealed to popularity or the fact that many people do something as an attempted form of validation.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/011\/original\/14-bandwagon.png",
+                "og:title": "Düştüğün mantık hatası: çoğunluğa başvurma",
+                "og:description": "Bir şeyin popüler veya birçok kişi tarafından doğru bulunuyor/yapılıyor olmasının, onun doğru olduğunu gösterdiğini öne sürdünüz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/14-cogunluga-basvurma.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "appeal-to-authority",
-        "title": "appeal to authority",
-        "slug": "appeal-to-authority",
-        "head": "You said that because an authority thinks something, it must therefore be true.",
-        "first": "Saying that because an authority thinks something, it must therefore be true.",
-        "description": "It's important to note that this fallacy should not be used to dismiss the claims of experts, or scientific consensus. Appeals to authority are not valid arguments, but nor is it reasonable to disregard the claims of experts who have a demonstrated depth of knowledge unless one has a similar level of understanding and\/or access to empirical evidence. However it is, entirely possible that the opinion of a person or institution of authority is wrong; therefore the authority that such a person or institution holds does not have any intrinsic bearing upon whether their claims are true or&nbsp;not.",
-        "pageTitle": "Your logical fallacy is appeal to authority",
-        "exampleText": "Example: Not able to defend his position that evolution 'isn't true' Bob says that he knows a scientist who also questions evolution (and presumably isn't a primate).",
+        "name": "otoriteye-basvurma",
+        "title": "otoriteye başvurma",
+        "slug": "otoriteye-basvurma",
+        "head": "Bir otorite öyle olduğunu düşünüyor diye bu görüşünüzün mutlaka doğru olması gerektiğini öne sürdünüz!",
+        "first": "Bir otorite öyle olduğunu düşünüyor diye bu görüşünüzün mutlaka doğru olması gerektiğini öne sürdünüz!",
+        "description": "Bir otorite öyle olduğunu düşünüyor diye bu görüşünüzün mutlaka doğru olması gerektiğini öne sürdünüz!",
+            "description": "(Lat. <i>argumentum ad auctoritatem</i>)</br>Referans verilen otorite konuyla ilgili gerçek bir uzman değilse, yani konuya dair güvenilir ve sağlam bir yorum yapacak uzmanlığa sahip değilse onun görüşlerine başvurularak öne sürülen bir iddia da hatalı olacaktır. Uzmanların konuyla ilgili kapsamlı bilgiye dayanan iddialarının, onlarla aynı düzeyde kavrayışa ve/veya deneysel kanıta sahip olmayan kişiler tarafından yok sayılması akılcı değildir. Fakat otoritelerin de bazen yanılabildiğini akılda tutmak ve iddiayı ortaya atan kişiye değil, iddianın kendisine bakmak gerekir.",
+        "pageTitle": "Düştüğün mantık hatası: otoriteye başvurma",
+        "exampleText": "Örnekler;</br>1: \"Koskoca Nobel ödüllü fizikçi Dr. Johan Skarn kürtajın ahlaki olarak yanlış olduğunu söylüyor. Alanında saygın bir uzman olduğuna göre kürtaj konusunda da haklıdır.\"</br>(Dr. Skarn fizik alanında uzmandır, jinekoloji veya ahlak felsefesi alanında değil. Bu nedenle kürtajın ahlaki doğruluğu veya yanlışlığı konusunda otorite sayılamaz; öne sürdüğü görüşler tamamen kişiseldir.)</br></br>2: ‘Evrimin gerçek olmadığına’ ilişkin iddiasını savunamayan Bob şöyle der: \"Evrim kuramının geçerliliğini sorgulayan bilim insanları da var.\"</br>(Evrimi reddeden birçok kişi bunu kanıta veya uzmanlıklarına dayanarak değil, kişisel inançlarını temel alarak yapmaktadır; yani birçoğu bu konunun uzmanı değildir. Oysa kanıtlar evrimi destekler. Nesnel çıkarımlarda temel alınması gereken şey kişisel hükümler değil, var olan kanıtlardır.)</br><i>NOT: Olduğu varsayılan bazı sorunlar ve fikir ayrılıkları, evrim mekanizmalarının detaylarıyla ilgilidir. Bilimsel veriler söz konusu olduğunda, onların geçerliliğini kabul eden uzmanların hangi kanıtları temel aldıkları incelenmelidir. Daha fazlası için bkz: <u><a href=\"http://arsiv.ozgurdusuncehareketi.org/yazi/300den-fazla-bilim-insaninin-darvinizme-supheli-yaklastigi-soyleniyor-bilim-insanlarinin-artik-evrim-teorisini-terk-ettikleri-dogru-mu/\">300'den fazla bilim insanının darwinizme şüpheli yaklaştığı söyleniyor. Bilim insanlarının artık evrim teorisini terk ettikleri doğru mu?</a></u></i>",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is appeal to authority",
-                "description": "You said that because an authority thinks something, it must therefore be true."
+                "title": "Düştüğün mantık hatası: otoriteye başvurma",
+                "description": "Bir otorite öyle olduğunu düşünüyor diye bu görüşünüzün mutlaka doğru olması gerektiğini öne sürdünüz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is appeal to authority",
-                "og:description": "You said that because an authority thinks something, it must therefore be true.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/008\/original\/15-authority.png",
+                "og:title": "Düştüğün mantık hatası: otoriteye başvurma",
+                "og:description": "Bir otorite öyle olduğunu düşünüyor diye bu görüşünüzün mutlaka doğru olması gerektiğini öne sürdünüz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/15-otoriteye-basvurma.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "composition-division",
-        "title": "composition\/division",
-        "slug": "composition-division",
-        "head": "You assumed that one part of something has to be applied to all, or other, parts of it; or that the whole must apply to its parts.",
-        "first": "Assuming that what's true about one part of something has to be applied to all, or other, parts of it.",
-        "description": "Often when something is true for the part it does also apply to the whole, or vice versa, but the crucial difference is whether there exists good evidence to show that this is the case. Because we observe consistencies in things, our thinking can become biased so that we presume consistency to exist where it does&nbsp;not.",
-        "pageTitle": "Your logical fallacy is composition\/division",
-        "exampleText": "Example: Daniel was a precocious child and had a liking for logic. He reasoned that atoms are invisible, and that he was made of atoms and therefore invisible too. Unfortunately, despite his thinky skills, he lost the game of hide and go seek. ",
+        "name": "hatali-benzesim",
+        "title": "hatalı benzeşim",
+        "slug": "hatali-benzesim",
+        "head": "Birbiriyle uyuşmayan birçok başka özellik barındıran iki olay veya nesne arasında, işinize gelen bir veya birkaç özellik üzerinden benzeşim kurarak iddianızı savundunuz!",
+        "first": "Birbiriyle uyuşmayan birçok başka özellik barındıran iki olay veya nesne arasında, işinize gelen bir veya birkaç özellik üzerinden benzeşim kurarak iddianızı savundunuz!",
+        "description": "(ing. <i>False analogy</i>)</br>Bazen bir iddiayı veya olguyu açıklamak için benzeşimler kurmak, hem derdimizi daha iyi anlatmamıza hem de karşımızdakinin bizi daha iyi anlamasına yardımcı olabilir. Ama birbiriyle benzer olduğunu düşündüğümüz iki olay veya nesneye ait belli bir özelliğin gerçekten de ortak olabileceğini göz önünde bulundururken başka özelliklerinin farklılık gösterebileceğini dikkate almazsak, hatalı benzeşim kurmuş oluruz.",
+        "pageTitle": "Düştüğün mantık hatası: hatalı benzeşim",
+        "exampleText": "Örnek;</br>“Tıpkı bir saatçinin bir saati zihninde kurgulayıp, zamanı ölçmek amacıyla onun karmaşık mekanizmasını tasarladığı ve inşa ettiği gibi, çok daha karmaşık ve düzenli olan insan bedeni ve doğadaki tüm uyumun da bir yaratıcısı ve tasarımcısı vardır.” (<i>William Paley, Natural Theology, 1802</i>)</br></br>(Bir saat ve bir insan vücudu gerçekten de yapı itibariyla oldukça karmaşıktır ve bu karmaşıklığın nedenleri de bir açıklamaya ihtiyaç duyar. Ne bir saat ne de bir vücut, tamamen çalışır haliyle kendiliğinden oluşamaz, dolayısıyla her ikisini de ‘yaratan’ mekanizmaların ortaya çıkarılması gerekir. Ne var ki doğada, tam randımanlı haliyle çalışan bir saati ortaya çıkarabilecek herhangi bir mekanizma yoktur ve bir saat, oluşmak için mutlaka bir ‘saatçi’ye ihtiyaç duyar; oysa tam randımanlı bir insan vücudunu ortaya çıkarabilecek bir süreç (doğal seçilim yoluyla birikimli evrim) mevcuttur ve dolayısıyla herhangi bir başka yaratıcıya gerek duymaz.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is composition or division",
-                "description": "You assumed that one part of something has to be applied to all, or other, parts of it; or that the whole must apply to its parts."
+                "title": "Düştüğün mantık hatası: hatalı benzeşim",
+                "description": "Birbiriyle uyuşmayan birçok başka özellik barındıran iki olay veya nesne arasında, işinize gelen bir veya birkaç özellik üzerinden benzeşim kurarak iddianızı savundunuz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is composition or division",
-                "og:description": "You assumed that one part of something has to be applied to all, or other, parts of it; or that the whole must apply to its parts.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/015\/original\/16-composition.png",
+                "og:title": "Düştüğün mantık hatası: hatalı benzeşim",
+                "og:description": "Birbiriyle uyuşmayan birçok başka özellik barındıran iki olay veya nesne arasında, işinize gelen bir veya birkaç özellik üzerinden benzeşim kurarak iddianızı savundunuz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/16-hatali-benzesim.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "no-true-scotsman",
-        "title": "no true scotsman",
-        "slug": "no-true-scotsman",
-        "head": "You made what could be called an appeal to purity as a way to dismiss relevant criticisms or flaws of your argument.",
-        "first": "Making what could be called an appeal to purity as a way to dismiss relevant criticisms or flaws of an argument.",
-        "description": "In this form of faulty reasoning one's belief is rendered unfalsifiable because no matter how compelling the evidence is, one simply shifts the goalposts so that it wouldn't apply to a supposedly 'true' example. This kind of post-rationalization is a way of avoiding valid criticisms of one's&nbsp;argument.",
-        "pageTitle": "Your logical fallacy is no true scotsman",
-        "exampleText": "Example: Angus declares that Scotsmen do not put sugar on their porridge, to which Lachlan points out that he is a Scotsman and puts sugar on his porridge. Furious, like a true Scot, Angus yells that no true Scotsman sugars his porridge.",
+        "name": "gercek-temsilci",
+        "title": "gerçek temsilci",
+        "slug": "gercek-temsilci",
+        "head": "Bir argüman ileri sürdükten sonra, içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir \"ideal\"e başvurmak çözüm değildir.",
+        "first": "Bir argüman ileri sürdükten sonra, içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir \"ideal\"e başvurmak çözüm değildir.",
+        "description": "(ing. <i>No true Scotsman</i>)</br>Bu yanılgı, bir konuda bir argüman ileri sürdükten sonra, kanıtlar istediği kadar aleyhinde olsun, karşı argümanları \"o gerçek bir X değil, bu gerçek bir Y değil\" şeklinde savuşturmaya çalışınca ortaya çıkar. Ne hikmetse, size sunulan ve savunduğunuz önermeyle çelişen herhangi bir örnek veya kanıt, size göre o olgunun asla gerçek temsilcisi değildir (?!) Bu yüzden argümanınızı sonradan işler ters gitmeye başladığında değil, en başından rasyonalize etmenizi öneririz.</br></br>Not: Bu yanılgı ”yan çizme” argümanının alt kümesindedir ve her “bu gerçek bir X değil” ifadesi bir gerçek temsilci argümanı örneği olmayabilir.</br>İddia sahibi tartışmanın orta yerinde X’in tanımını değiştirmişse, bu mantık yanılgısına düşmüş olur; ama zaten en başından beri mantıksal gerekçeleriyle birlikte \"bunu gerçek bir X olarak kabul etmiyorum\" demişse, burada bir mantık yanılgısı yoktur.",
+        "pageTitle": "Düştüğün mantık hatası: gerçek temsilci",
+        "exampleText": "Örnek;</br>- İslam, barış ve hoşgörü dinidir.</br>- Peki, ya Sivas'ta onca insanı Allahüekber naralarıyla yakanlar? Onlar müslüman değil miydi?</br>- Onlar gerçek müslüman değil.",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is no true scotsman",
-                "description": "You made what could be called an appeal to purity as a way to dismiss relevant criticisms or flaws of your argument."
+                "title": "Düştüğün mantık hatası: gerçek temsilci",
+                "description": "Bir argüman ileri sürdükten sonra, içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir \"ideal\"e başvurmak çözüm değildir."
             },
             "og": {
-                "og:title": "Your logical fallacy is no true scotsman",
-                "og:description": "You made what could be called an appeal to purity as a way to dismiss relevant criticisms or flaws of your argument.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/020\/original\/17-no-true-scots.png",
+                "og:title": "Düştüğün mantık hatası: gerçek temsilci",
+                "og:description": "Bir argüman ileri sürdükten sonra, içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir \"ideal\"e başvurmak çözüm değildir.",
+                "og:image": "http://localhost/ylfi/assets/images/og/17-gercek-temsilci.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "genetic",
-        "title": "genetic",
-        "slug": "genetic",
-        "head": "You judged something as either good or bad on the basis of where it comes from, or from whom it came.",
-        "first": "Judging something good or bad on the basis of where it comes from, or from whom it comes.",
-        "description": "This fallacy avoids the argument by shifting focus onto something's or someone's origins. It's similar to an ad hominem fallacy in that it leverages existing negative perceptions to make someone's argument look bad, without actually presenting a case for why the argument itself lacks&nbsp;merit.",
-        "pageTitle": "Your logical fallacy is genetic",
-        "exampleText": "Example: Accused on the 6 o'clock news of corruption and taking bribes, the senator said that we should all be very wary of the things we hear in the media, because we all know how very unreliable the media can be.",
+        "name": "onculle-reddetme",
+        "title": "öncülle reddetme",
+        "slug": "onculle-reddetme",
+        "head": "Önermenizin belli bir sonuca işaret edeceğini, o önerme doğru olmadığına göre sonucun da yanlış olduğunu savundunuz. Ama bir dakika, o öyle değil ki!",
+        "first": "Önermenizin belli bir sonuca işaret edeceğini, o önerme doğru olmadığına göre sonucun da yanlış olduğunu savundunuz. Ama bir dakika, o öyle değil ki!",
+        "description": "(ing. Denial of the antecedent) Öncülle ardılı reddetme yanılgısı, ardıl ile öncül arasında varsayıldığı gibi bir ilişki olmaması durumunda sık sık karşımıza çıkar. Argümanınızı kimi olgu ve durumların belli bir sonuca işaret edeceği üzerine kurup, sonra da o olgu ve durumları gözlemlemediğinize göre söz konusu sonucun yanlış olduğunu ileri süremezsiniz; çünkü o olgu ile sonuç arasında mantıksal bir ilişki olmayabileceği noktasını atlamış olursunuz. Bu yanılgıda dikkat edilmesi gereken şey şudur: Bir argüman “eğer X ise, Y'dir” şeklindeyse, bu argüman “X-değil ise” durumu hakkında HİÇBİR ŞEY söylemez. Yani bu argüman “eğer X-değil ise Y'dir” veya “eğer X- eğil ise Y değildir” yaegılarının ikisini de içermez.",
+        "pageTitle": "Düştüğün mantık hatası: öncülle reddetme",
+        "exampleText": "Örnek;</br>İnsanlar yüzbin yıl yaşasaydı doğada evrimi gözlemleyebilir, doğruluğunu sınayabilirdik. İnsanlar yüzbin yıl yaşamıyor, dolayısıyla evrimi gözlemleyemiyor, doğruluğunu sınayamıyoruz.</br></br>(Yüzbin yıl yaşamasak da evrimi laboratuvarda, fosil kayıtlarında, karşılaştırmalı genom çalışmalarında vb. gözlemleyebiliyor, sınayabiliyoruz.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is genetic",
-                "description": "You judged something as either good or bad on the basis of where it comes from, or from whom it came."
+                "title": "Düştüğün mantık hatası: öncülle reddetme",
+                "description": "Önermenizin belli bir sonuca işaret edeceğini, o önerme doğru olmadığına göre sonucun da yanlış olduğunu savundunuz. Ama bir dakika, o öyle değil ki!"
             },
             "og": {
-                "og:title": "Your logical fallacy is genetic",
-                "og:description": "You judged something as either good or bad on the basis of where it comes from, or from whom it came.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/017\/original\/18-genetic.png",
+                "og:title": "Düştüğün mantık hatası: öncülle reddetme",
+                "og:description": "Önermenizin belli bir sonuca işaret edeceğini, o önerme doğru olmadığına göre sonucun da yanlış olduğunu savundunuz. Ama bir dakika, o öyle değil ki!",
+                "og:image": "http://localhost/ylfi/assets/images/og/18-onculle-reddetme.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "black-or-white",
-        "title": "black-or-white",
-        "slug": "black-or-white",
-        "head": "You presented two alternative states as the only possibilities, when in fact more possibilities exist.",
-        "first": "Where two alternative states are presented as the only possibilities, when in fact more possibilities exist.",
-        "description": "Also known as the false dilemma, this insidious tactic has the appearance of forming a logical argument, but under closer scrutiny it becomes evident that there are more possibilities than the either\/or choice that is presented. Binary, black-or-white thinking doesn't allow for the many different variables, conditions, and contexts in which there would exist more than just the two possibilities put forth. It frames the argument misleadingly and obscures rational, honest&nbsp;debate.",
-        "pageTitle": "Your logical fallacy is black-or-white",
-        "exampleText": "Example: Whilst rallying support for his plan to fundamentally undermine citizens' rights, the Supreme Leader told the people they were either on his side, or they were on the side of the enemy.",
+        "name": "hatali-ikilem",
+        "title": "hatalı ikilem",
+        "slug": "hatali-ikilem",
+        "head": "Bir fikir veya olguya ilişkin birçok olasılık mevcutken, sadece iki zıt olasılığın mümkün olduğunu varsaydınız (Ya siyahtır, ya beyaz!)",
+        "first": "Bir fikir veya olguya ilişkin birçok olasılık mevcutken, sadece iki zıt olasılığın mümkün olduğunu varsaydınız (Ya siyahtır, ya beyaz!)",
+        "description": "(ing. <i>False dichotomy</i>, <i>false dilemma</i>, <i>black/white</i>)</br>Bazen tartışmayı öyle bir resmederiz ki, bizimkinin dışındaki tüm argümanların tek bir kapıya çıkacağı varsayımında bulunuruz. Oysa bizim siyah/beyaz veya 0-1 olarak resmettiğimiz durum, bu iki koşuldan çok daha fazla alternatif barındırıyor olabilir. Argümanları bu yanıltıcı resim üzerinden inşa etmek, mantıklı ve dürüst bir tartışmayı imkansız hale getirebilir.",
+        "pageTitle": "Düştüğün mantık hatası: hatalı ikilem",
+        "exampleText": "Örnek;</br>Yeni yürürlüğe koyduğumuz yasaya karşı çıkan herkes birer vatan hainidir!</br>(Bir yasa karşısında fikir sahibi kimselerin takınabileceği tutumlar, makul vatandaş olup yasayı bütünüyle kabul etmek veya vatan haini olup itiraz etmekten ibaret değildir.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is black or white",
-                "description": "You presented two alternative states as the only possibilities, when in fact more possibilities exist."
+                "title": "Düştüğün mantık hatası: hatalı ikilem",
+                "description": "Bir fikir veya olguya ilişkin birçok olasılık mevcutken, sadece iki zıt olasılığın mümkün olduğunu varsaydınız (Ya siyahtır, ya beyaz!)"
             },
             "og": {
-                "og:title": "Your logical fallacy is black or white",
-                "og:description": "You presented two alternative states as the only possibilities, when in fact more possibilities exist.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/013\/original\/19-black-or-white.png",
+                "og:title": "Düştüğün mantık hatası: hatalı ikilem",
+                "og:description": "Bir fikir veya olguya ilişkin birçok olasılık mevcutken, sadece iki zıt olasılığın mümkün olduğunu varsaydınız (Ya siyahtır, ya beyaz!)",
+                "og:image": "http://localhost/ylfi/assets/images/og/19-hatali-ikilem.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "begging-the-question",
-        "title": "begging the question",
-        "slug": "begging-the-question",
-        "head": "You presented a circular argument in which the conclusion was included in the premise.",
+        "name": "yetkin-olmama",
+        "title": "yetkin olmama",
+        "slug": "yetkin-olmama",
+        "head": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir.",
         "first": "A circular argument in which the conclusion is included in the premise.",
-        "description": "This logically incoherent argument often arises in situations where people have an assumption that is very ingrained, and therefore taken in their minds as a given. Circular reasoning is bad mostly because it's not very&nbsp;good.",
-        "pageTitle": "Your logical fallacy is begging the question",
-        "exampleText": "Example: The word of Zorbo the Great is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not Ever Be Questioned.",
+        "description": "(ing. <i>Courtier's reply</i>)</br>Bu yanılgı, karşınızdaki kişinin argümanına karşılık vermek yerine, onun bu konudaki yetkinliğini sorgulamanız şeklinde ortaya çıkar. Siz veya argümanlarını kullandığınız kişi gerçekten de söz konusu tartışma üzerine daha çok okumuş, pratikte bulunmuş veya uzmanlık sahibi olabilirsiniz. İşte sağlıklı bir tartışma için  sizden veya argümanlarını kullandığınız o kişiden tam da bu yüzden daha tatmin edici cevaplar bekliyoruz; bizi bu konuda yetkin olmamakla suçlamanızı değil sayın argüman sahibi!",
+        "pageTitle": "Düştüğün mantık hatası: yetkin olmama",
+        "exampleText": "Örnek;</br>Ben yıllardır astroloji üzerine çalışıyorum, ABD'deki bilmem ne enstitüsünden sertifika aldım. Peki, sen okulunu okudun mu da astrolojinin safsata olduğunu iddia ediyorsun?</br></br>(Astroloji konusunda karşınızdaki şüphecinin işaret ettiği sorunları beğenmiyorsanız, o sorunları geçersiz kılmak için gerekli mantıksal açıklamayı sunmanız yeterli olacaktır. Ortadaki tartışmayı kazanmak için karşınızdaki kişiden daha bilgili olduğunuzu veya o kişinin o konuda yetkin olmadığını söylemek yerine sahip olduğunuz bilgileri kullanmayı deneyin! Biz denedik, %100 işe yarıyor.)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is begging the question",
-                "description": "You presented a circular argument in which the conclusion was included in the premise."
+                "title": "Düştüğün mantık hatası: yetkin olmama",
+                "description": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir."
             },
             "og": {
-                "og:title": "Your logical fallacy is begging the question",
-                "og:description": "You presented a circular argument in which the conclusion was included in the premise.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/012\/original\/20-begging-the-question.png",
+                "og:title": "Düştüğün mantık hatası: yetkin olmama",
+                "og:description": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir.",
+                "og:image": "http://localhost/ylfi/assets/images/og/20-yetkin-olmama.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "appeal-to-nature",
-        "title": "appeal to nature",
-        "slug": "appeal-to-nature",
-        "head": "You argued that because something is 'natural' it is therefore valid, justified, inevitable, good or ideal.",
-        "first": "Making the argument that because something is 'natural' it is therefore valid, justified, inevitable, good, or ideal.",
-        "description": "Many 'natural' things are also considered 'good', and this can bias our thinking; but naturalness itself doesn't make something good or bad. For instance murder could be seen as very natural, but that doesn't mean it's good or&nbsp;justifiable.",
-        "pageTitle": "Your logical fallacy is appeal to nature",
-        "exampleText": "Example: The medicine man rolled into town on his bandwagon offering various natural remedies, such as very special plain water. He said that it was only natural that people should be wary of 'artificial' medicines such as antibiotics.",
+        "name": "dogaya-yonelim",
+        "title": "doğaya yönelim",
+        "slug": "dogaya-yonelim",
+        "head": "Bir durumun ‘doğal’ olduğunu ileri sürerek onun geçerli, haklı, kaçınılmaz, iyi veya ideal olduğunu iddia ettiniz!",
+        "first": "Bir durumun ‘doğal’ olduğunu ileri sürerek onun geçerli, haklı, kaçınılmaz, iyi veya ideal olduğunu iddia ettiniz!",
+        "description": "(İng. <i>Appeal to nature</i>)</br>Doğada olan ve doğal olarak gerçekleşen bir olguyu, “olması gerekenmiş” gibi sunma hatasıdır. ‘Doğal’ olan bazı şeylerin aynı zamanda da ‘iyi’ olduğu yönündeki kabul, görüşlerimizi taraflı hale getirebilir. Oysa doğallığın kendisi bir şeyi iyi veya kötü yapmaz. Örneğin hastalıklardan ölmek doğaldır, ama bu onun iyi olduğu anlamına gelmez. Kanserin veya salgın hastalıkların doğal olması, onları iyi veya doğru yapmaz.</br>Bkz: <a href=\"http://yalansavar.org/2012/06/26/dogaya-yonelim-safsatasi/\">Detaylı bir yazı</a>",
+        "pageTitle": "Düştüğün mantık hatası: doğaya yönelim",
+        "exampleText": "Örnekler;</br>1: “İlaç firmalarının ürettiği antibiyotik, ağrı kesici, tansiyon ilacı vb ilaçlar doğal değildir. Çeşitli otlardan elde edilen iksirler ve karışımlar ise doğaldı. Sakın ilaç kullanmayın.”</br>(Bu ilaçlar insanları hastalıklardan korumak amacıyla üretilir ve işe yarayıp yaramadıkları, tamamen hastalık üzerindeki etkilerine bakılarak çıkarsanır. Nasıl doğal olmalarından mutlaka faydalı da oldukları çıkarımını yapamıyorsak; bu ilaçların doğal olmamaları da faydalı olmadıkları anlamına gelmez.)</br></br>2: “Normal doğum doğaldır, o yüzden sezaryen kötüdür.”</br>(Normal doğum sırasında ölen birçok kadın vardır, gerekli durumlarda -ki buna doktoru karar verir- sezaryen yapılmazsa anne adayı kaybedilir. Normal doğumun doğal olması, onun her zaman iyi sonuç vereceği anlamına gelmez.)</br></br>3: “Doğada en güçlü ve uyumlu olan canlılar hayatta kalır; yani zayıf ve çevresine uyumsuz olan canlıların yok olması doğaldır. Demek ki zayıf ve güçsüzleri yok etmeliyiz!” [Sosyal darwinizm]</br>(Doğada işlerin böyle yürüyor olması, ahlaki bir dayanak olarak kabul edilemez.)</br><i>NOT: Sosyal darwinizmden farklı olan Darwin’in evrim kuramı, bunun sadece doğanın bir gerçeği olduğunu söyler; böyle olmasının iyi veya doğru veya gerekli olduğunu değil. Daha fazlası için bkz: <u><a href=\"http://arsiv.ozgurdusuncehareketi.org/yazi/evrim-sosyal-darvinizme-yol-acmaz-mi/\">Evrim, sosyal darvinizme yol açmaz mı?</a></u></i>)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is appeal to nature",
-                "description": "You argued that because something is 'natural' it is therefore valid, justified, inevitable, good or ideal."
+                "title": "Düştüğün mantık hatası: doğaya yönelim",
+                "description": "Bir durumun ‘doğal’ olduğunu ileri sürerek onun geçerli, haklı, kaçınılmaz, iyi veya ideal olduğunu iddia ettiniz!"
             },
             "og": {
-                "og:title": "Your logical fallacy is appeal to nature",
-                "og:description": "You argued that because something is 'natural' it is therefore valid, justified, inevitable, good or ideal.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/010\/original\/21-appeal-to-nature.png",
+                "og:title": "Düştüğün mantık hatası: doğaya yönelim",
+                "og:description": "Bir durumun ‘doğal’ olduğunu ileri sürerek onun geçerli, haklı, kaçınılmaz, iyi veya ideal olduğunu iddia ettiniz!",
+                "og:image": "http://localhost/ylfi/assets/images/og/21-dogaya-yonelim.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "anecdotal",
-        "title": "anecdotal",
-        "slug": "anecdotal",
-        "head": "You used a personal experience or an isolated example instead of a sound argument or compelling evidence.",
-        "first": "Using personal experience or an isolated example instead of a valid argument, especially to dismiss statistics.",
-        "description": "It's often much easier for people to believe someone's testimony as opposed to understanding complex data and variation across a continuum. Quantitative scientific measures are almost always more accurate than personal perceptions and experiences, but our inclination is to believe that which is tangible to us, and\/or the word of someone we trust over a more 'abstract' statistical&nbsp;reality.",
-        "pageTitle": "Your logical fallacy is anecdotal",
-        "exampleText": "Example: Jason said that that was all cool and everything, but his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read about meta analyses of methodologically sound studies showing proven causal relationships.",
+        "name": "ardilla-dogrulama",
+        "title": "ardılla doğrulama",
+        "slug": "ardilla-dogrulama",
+        "head": "Önermenizin belli bir sonuca işaret edeceğini, o sonucu gözlemlediğimize göre de önermenizin doğru olduğunu savundunuz. Ama bir dakika, o öyle değil ki!",
+        "first": "Önermenizin belli bir sonuca işaret edeceğini, o sonucu gözlemlediğimize göre de önermenizin doğru olduğunu savundunuz. Ama bir dakika, o öyle değil ki!",
+        "description": "(ing. <i>Affirmation of the consequent</i>)</br>Ardılla öncülü doğrulama yanılgısı, ardıl ile öncül arasında varsayıldığı gibi bir ilişki olmaması durumunda sık sık karşımıza çıkar. Bu yanılgı türünde, bir olgunun belli bir sonuca işaret ettiğini ve o sonucu gözlemlememiz halinde bu olgunun da doğru sayılması gerektiği öne sürülür. Ancak söz konusu olgu  ile bahsi geçen sonuç arasında mantıksal bir ilişki olmayabileceğini; dahası, başka olguların da aynı sonuca yol açabileceğini  atladınız. Bu yanılgıda dikkat edilmesi gereken şey şudur: Bir argüman, “eğer X ise Y'dir” şeklindeyse, bize söylediği tek şey “eğer Y-değil ise X-değildir”dir. Bu, çok bilinen bir mantık kuralıdır (bkz. Modus tollens). Bu argüman bize kesinlikle “eğer Y ise X'tir” dememektedir, ki bu çok düşülen bir yanılgıdır (bkz. aşağıdaki Odin örneği). Ayrıca bkz. kardeş yanılgı “Öncülle reddetme”.",
+        "pageTitle": "Düştüğün mantık hatası: ardılla doğrulama",
+        "exampleText": "Örnekler;</br>1: Eğer evren bir yaratıcı tarafından yaratılmış olsaydı, her yerde düzen ve kanunlar görürdük. Her yerde düzen ve kanunlar görüyoruz, o halde bir yaratıcı var.</br>(Bir yaratıcının olması durumunda etrafta düzen görmemiz gerektiği çıkarımında bulundunuz. Belki yaratıcı kaos seviyordur, bunu hiç düşündünüz mü? Hiç! Neyse, bir kere burada bir hata yaptınız. Bizim bu yanılgıda vurgulamak istediğimiz hata bu değil.</br>Esas hata, düzenin başka olguların sonucu olarak karşımıza çıkabileceğini hesaba katmadan, bu durumun doğrudan argümanınızı doğruladığı sonucuna varmış olmanız. Argümanınızın şundan farkı yok : “Eğer evren Odin tarafından yaratılmış olsaydı etrafta hiç buz devi görmememiz gerekirdi (çünkü Odin buz devlerini yok etme sözü vermişti). Etrafta hiç buz devi görmüyoruz, o halde Odin var.”</br></br>2: - Tanrı dualara cevap veriyorsa (X), tümörün iyi huylu çıkar (Y).</br>+ Tümörüm iyi huylu çıktı.</br>- O zaman Tanrı dualara cevap veriyor demektir.",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is anecdotal",
-                "description": "You used a personal experience or an isolated example instead of a sound argument or compelling evidence."
+                "title": "Düştüğün mantık hatası: ardılla doğrulama",
+                "description": "Önermenizin belli bir sonuca işaret edeceğini, o sonucu gözlemlediğimize göre de önermenizin doğru olduğunu savundunuz. Ama bir dakika, o öyle değil ki!"
             },
             "og": {
-                "og:title": "Your logical fallacy is anecdotal",
-                "og:description": "You used a personal experience or an isolated example instead of a sound argument or compelling evidence.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/007\/original\/22-anecdotal.png",
+                "og:title": "Düştüğün mantık hatası: ardılla doğrulama",
+                "og:description": "Önermenizin belli bir sonuca işaret edeceğini, o sonucu gözlemlediğimize göre de önermenizin doğru olduğunu savundunuz. Ama bir dakika, o öyle değil ki!",
+                "og:image": "http://localhost/ylfi/assets/images/og/22-ardilla-dogrulama.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "the-texas-sharpshooter",
-        "title": "the texas sharpshooter",
-        "slug": "the-texas-sharpshooter",
-        "head": "You cherry-picked a data cluster to suit your argument, or found a pattern to fit a presumption.",
-        "first": "Cherry-picking data clusters to suit an argument, or finding a pattern to fit a presumption.",
-        "description": "This 'false cause' fallacy is coined after a marksman shooting randomly at barns and then painting bullseye targets around the spot where the most bullet holes appear, making it appear as if he's a really good shot. Clusters naturally appear by chance, but don't necessarily indicate that there is a causal&nbsp;relationship.",
-        "pageTitle": "Your logical fallacy is the texas sharpshooter",
-        "exampleText": "Example: The makers of Sugarette Candy Drinks point to research showing that of the five countries where Sugarette drinks sell the most units, three of them are in the top ten healthiest countries on Earth, therefore Sugarette drinks are healthy.",
+        "name": "hatali-orneklem",
+        "title": "hatalı örneklem",
+        "slug": "hatali-orneklem",
+        "head": "Argümanınıza uyan verileri cımbızla seçerek, durumu varsayımınıza uydurmaya veya varsayımınızı destekleyecek bir örüntü yakalamaya çalıştınız!",
+        "first": "Argümanınıza uyan verileri cımbızla seçerek, durumu varsayımınıza uydurmaya veya varsayımınızı destekleyecek bir örüntü yakalamaya çalıştınız!",
+        "description": "(İng. <i>biased sample</i>, <i>confirmation bias</i>, <i>the Texas sharpshooter</i>)</br>Ortaya attığınız bir argümanı savunurken, onu desteklemeyen verileri göz ardı edip sadece destekleyenleri seçmeye kalkmamalısınız. Bu yaptığınız, önce rastgele ateş açıp, ondan sonra deliğin etrafına hedef tahtası çizmeye benziyor! Bir argüman ortaya atarken, onu eldeki verilerden yola çıkarak temellendirmek kadar olağan bir şey yoktur. Ancak bunu yaparken de iddianızla çelişen kantıları görmezden gelip sadece destekleyenleri kullanmak, kendinizi ve karşınızdakini kandırmaktan başka bir şey değildir.",
+        "pageTitle": "Düştüğün mantık hatası: hatalı örneklem",
+        "exampleText": "Örnek;</br>X içecekleri üreticileri, X içeceklerinin en çok satıldığı beş ülkeden üçünün dünyanın en sağlıklı ilk on ülkesi arasında bulunduğunu; dolayısıyla X içeceğinin sağlıklı olduğunu belirtiyor.</br>(Bu beş ülkeden üçünün dünyanın en sağlıklı ilk on ülkesi arasında olmasının X içeceğinin sağlıklı olmasıyla hiçbir alakası bulunmayabileceği gibi; bu ülkelerin, X içeceği çok sağlıksız bile olsa başka faktörlerden dolayı [örn. Sağlık sisteminin gelişkinliği vb.] dünyanın en sağlıklı ülkeleri arasında bulunmaları da mümkündür. Ayrıca diğer iki ülkeden niye hiç bahsedilmiyor?)",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is the texas sharpshooter",
-                "description": "You cherry-picked a data cluster to suit your argument, or found a pattern to fit a presumption."
+                "title": "Düştüğün mantık hatası: hatalı örneklem",
+                "description": "Argümanınıza uyan verileri cımbızla seçerek, durumu varsayımınıza uydurmaya veya varsayımınızı destekleyecek bir örüntü yakalamaya çalıştınız!"
             },
             "og": {
-                "og:title": "Your logical fallacy is the texas sharpshooter",
-                "og:description": "You cherry-picked a data cluster to suit your argument, or found a pattern to fit a presumption.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/027\/original\/23-texas-sharpshooter.png",
+                "og:title": "Düştüğün mantık hatası: hatalı örneklem",
+                "og:description": "Argümanınıza uyan verileri cımbızla seçerek, durumu varsayımınıza uydurmaya veya varsayımınızı destekleyecek bir örüntü yakalamaya çalıştınız!",
+                "og:image": "http://localhost/ylfi/assets/images/og/23-hatali-orneklem.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }
         }
     },
     {
-        "name": "middle-ground",
-        "title": "middle ground",
-        "slug": "middle-ground",
-        "head": "You claimed that a compromise, or middle point, between two extremes must be the truth.",
-        "first": "Saying that a compromise, or middle point, between two extremes is the truth.",
-        "description": "Much of the time the truth does indeed lie between two extreme points, but this can bias our thinking: sometimes a thing is simply untrue and a compromise of it is also untrue. Half way between truth and a lie, is still a&nbsp;lie.",
-        "pageTitle": "Your logical fallacy is middle ground",
-        "exampleText": "Example: Holly said that vaccinations caused autism in children, but her scientifically well-read friend Caleb said that this claim had been debunked and proven false. Their friend Alice offered a compromise that vaccinations must cause some autism, just not all autism.",
+        "name": "orta-yol",
+        "title": "orta yol",
+        "slug": "orta-yol",
+        "head": "İki zıt argüman birbiriyle çatışıyor diye, doğru olanın bu ikisi arasında bir yerde olması gerektiğini varsaydınız!",
+        "first": "İki zıt argüman birbiriyle çatışıyor diye, doğru olanın bu ikisi arasında bir yerde olması gerektiğini varsaydınız!",
+        "description": "(ing. <i>Middle ground</i>)</br>Doğru, gerçekten de çoğu zaman iki uç argümanın arasında bir yerde olabilir. Ama bunun bizi yanlı düşünmeye itmemesi gerekir. Bazen bir şey basitçe yanlıştır, “yarı yanlış olsun, yarı doğru” şeklindeki bir yaklaşım bu gerçeği değiştirmez.",
+        "pageTitle": "Düştüğün mantık hatası: orta yol",
+        "exampleText": "Örnek;</br>Çağan: Aşılar çocuklarda otizme neden oluyor!</br>Melis: Bu iddia bilimsel çalışmalarla defalarca çürütüldü ve destekleyen hiçbir bilimsel veri yok!</br>Oğuz: Tamam ya, tartışmayın...</br>Gelin, “<b><i>Aşılar otizm vakalarının hepsine değil, bazılarına neden oluyor</i></b>” deyip anlaşalım.",
         "meta": {
             "seo": {
-                "title": "Your logical fallacy is middle ground",
-                "description": "You claimed that a compromise, or middle point, between two extremes must be the truth."
+                "title": "Düştüğün mantık hatası: orta yol",
+                "description": "İki zıt argüman birbiriyle çatışıyor diye, doğru olanın bu ikisi arasında bir yerde olması gerektiğini varsaydınız!"
             },
             "og": {
-                "og:title": "Your logical fallacy is middle ground",
-                "og:description": "You claimed that a compromise, or middle point, between two extremes must be the truth.",
-                "og:image": "https:\/\/yourlogicalfallacyis.com\/system\/App\/Meta\/og_images\/000\/000\/019\/original\/24-middle-ground.png",
+                "og:title": "Düştüğün mantık hatası: orta yol",
+                "og:description": "İki zıt argüman birbiriyle çatışıyor diye, doğru olanın bu ikisi arasında bir yerde olması gerektiğini varsaydınız!",
+                "og:image": "http://localhost/ylfi/assets/images/og/24-orta-yol.png",
                 "og:image:width": 150,
                 "og:image:height": 150
             }

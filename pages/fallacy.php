@@ -12,7 +12,7 @@
                 <h2></h2>
                 <p><!-- description --></p>
                 <p><!-- example --></p>
-                <p>Want to share this fallacy on Facebook? Here&#039;s a button for you:</p>
+                <p>bu yanılgıyıı facebook'da paylaşın!</p>
                 <p><!-- fb like button --></p>
             </div>
         </article>
