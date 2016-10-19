@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,700,900&amp;subset=latin-ext" /> 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,900&amp;subset=latin-ext" /> 
 <link rel="stylesheet" href="<?php echo $base_uri; ?>/assets/css/fallacy.css?26" />
 
 <!--[if lt IE 9]>

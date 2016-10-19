@@ -1324,6 +1324,10 @@ b, strong, .bold, .fallacy-detailed p + p {
   font-weight: 700;
 }
 
+em {
+  font-style: italic;
+}
+
 small, .small {
   font-size: .8em !important;
 }
