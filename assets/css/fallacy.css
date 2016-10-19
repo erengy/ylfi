@@ -1309,7 +1309,6 @@ body {
 /* Typography */
 body {
   font: 15px "Merriweather", sans-serif;
-  font-weight: 300;
   color: #333;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
