@@ -1,6 +1,6 @@
         <h1 class="title">Sık Sorulan Sorular</h1>
         <dl class="faq">
-            <dt><p>Sitenizde olmayan bazı mantık hataları var, farkında mısınız?</p></dt>
+            <dt><p>Sitenizde bulunmayan bazı mantık hataları var, farkında mısınız?</p></dt>
             <dd><p>Evet, ancak hepsini değil önemlileri listelemek amacındayız. Fazlası için <a href="http://www.fallacyfiles.org/taxonomy.html" target="_blank" title="Taxonomy of the Logical Fallacies">bu detaylı listeyi</a> incelemenizi tavsiye ederiz.</p></dd>
 
             <dt><p>Bu siteyi neden yaptınız ki?</p></dt>

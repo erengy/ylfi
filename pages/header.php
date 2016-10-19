@@ -40,7 +40,7 @@
         <div class="container">
             <div class="container">
                 <a href="<?php echo $base_uri; ?>">
-                    <img src="<?php echo $base_uri; ?>/assets/images/home/title-home.png" alt="Mantık hatalarına düşmemelisin" />
+                    <img src="<?php echo $base_uri; ?>/assets/images/home/title-home.png" alt="Akıl var, mantık var" />
                 </a>
             </div>
         </div>

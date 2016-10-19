@@ -16,20 +16,20 @@
                     <h4>
                         <a href="<?php echo $base_uri; ?>/poster">
                             <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/poster.png" alt="" /></span>
-                            want a free poster?
+                            poster isteyen?
                         </a>
                     </h4>
-                    <p>Download a free pdf version <br /> or get a nice printed one</p>
+                    <p>PDF halini ücretsiz olarak indirin ve duvarınıza asın.</p>
                 </li>
                 <li class="col-sm-4">
                     <h4>
                         <a target='_blank' href="http://www.schoolofthought.org/">
                             <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/schoolofthought_small.png" alt="" /></span>
-                            watch the TEDx
+                            TEDx konuşması
                         </a>
                     </h4>
-                    <p>What if we taught critical thinking in schools?</p>
-                </li>    
+                    <p>Eleştirel düşünceyi okullarda öğretsek nasıl olurdu?</p>
+                </li>
             </ul>
 
             <p class="icons">

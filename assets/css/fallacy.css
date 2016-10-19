@@ -1626,7 +1626,7 @@ h3 {
 .square-button:hover {
   text-decoration: none;
 }
-.square-button .icon-tu-quoque {
+.square-button .icon-elestiriyle-cevap-verme {
   margin-left: -.2em;
 }
 
@@ -1753,7 +1753,7 @@ td.button {
 .icon-yanilgi-argumani,
 .icon-kaygan-zemin,
 .icon-kisiye-saldiri,
-.icon-elestiriye-cevap-verme,
+.icon-elestiriyle-cevap-verme,
 .icon-inanilmazlik-argumani,
 .icon-yan-cizme,
 .icon-gudumlu-soru,
@@ -1813,7 +1813,7 @@ td.button {
   content: "\e605";
 }
 
-.icon-elestiriye-cevap-verme:before {
+.icon-elestiriyle-cevap-verme:before {
   content: "\e606";
 }
 
