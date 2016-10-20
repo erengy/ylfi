@@ -53,7 +53,7 @@
         "first": "Geçerli ve ikna edici bir argümanı duygusal bir tepkiye başvurarak çürütmeye çalıştınız!",
         "description": "(İng. <em>appeal to emotion</em>)<br>Bu mantık yanılgısında korku, hayranlık, nefret, acıma, gurur, sevgi, özlem vb. duygusal tepkilere başvurularak savunulan ve duygu sömürüsüne dayanan iddialar yer alır. Bazen mantıksal açıdan tutarlı olan bir iddianın duygusal sonuçları olabileceğini akılda tutmak gerekir. Ama sorun, bu duyguların iddianın geçerliliği üzerinde etkisi olduğunu varsaydığınız zaman başlar; öne sürülen iddiayı akılcı verilere değil de yol açacağı duygusal etkilere başvurarak savunmaya çalıştığınızda bu mantık yanılgısına düşmüş olursunuz. Duygusal çıkarımlardan herkes etkilenir, bu nedenle tartışmalarda duygulara başvurmak oldukça yaygın ve etkili bir ‘rakibi zayıflatma’ yöntemidir. Ancak öne sürülen duygusal etkiler, karşı çıkılan iddianın doğruluğu veya yanlışlığına ilişkin bir şey söylememektedir.",
         "pageTitle": "Düştüğün mantık hatası: duygulara başvurma",
-        "exampleText": "<blockquote>“Ölümden sonra bir hayat vardır, çünkü öldükten sonra yok olmak istemiyorum.”</blockquote>Öldükten sonra yok olmak istememeniz veya bunun sizi üzmesi, ölümden sonra başka bir hayatınız olacağına dair kanıt teşkil etmez.<blockquote>“X: Sinem bu yıl çok çalıştı ve faydalı işler yaparak hem becerisini hem de değerini kanıtladı. Başkanlık seçimlerinde ona oy vereceğim.<br>Y: Ama unuttun mu? Geçen yıl o seni aday göstermemişti.<br>X: Haklısın, vazgeçtim.”</blockquote>(Nefrete veya kine başvurma)<blockquote>“Suçladığınız bu adam tekerlekli sandalyede! Bu haliyle sizce yolsuzluk yapmış olabilir mi?”</blockquote>(Acıma duygusuna başvurma)<blockquote>“Senin gibi akıllı bir insanın bu önerime karşı çıktığına inanamıyorum!”</blockquote>(Gurura başvurma, yağ çekme)<blockquote>“Allah'a inanmalısın; inanmazsan cehenneme gidersin.”</blockquote>(Korkuya başvurma)",
+        "exampleText": "<blockquote>“Ölümden sonra bir hayat vardır, çünkü öldükten sonra yok olmak istemiyorum.”</blockquote>Öldükten sonra yok olmak istememeniz veya bunun sizi üzmesi, ölümden sonra başka bir hayatınız olacağına dair kanıt teşkil etmez.<blockquote>X: “Sinem bu yıl çok çalıştı ve faydalı işler yaparak hem becerisini hem de değerini kanıtladı. Başkanlık seçimlerinde ona oy vereceğim.”<br>Y: “Ama unuttun mu? Geçen yıl o seni aday göstermemişti.”<br>X: “Haklısın, vazgeçtim.”</blockquote>(Nefrete veya kine başvurma)<blockquote>“Suçladığınız bu adam tekerlekli sandalyede! Bu haliyle sizce yolsuzluk yapmış olabilir mi?”</blockquote>(Acıma duygusuna başvurma)<blockquote>“Senin gibi akıllı bir insanın bu önerime karşı çıktığına inanamıyorum!”</blockquote>(Gurura başvurma, yağ çekme)<blockquote>“Allah'a inanmalısın; inanmazsan cehenneme gidersin.”</blockquote>(Korkuya başvurma)",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: duygulara başvurma",
@@ -76,7 +76,7 @@
         "first": "Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen bir iddianın hepten yanlış olduğunu öne sürdünüz!",
         "description": "(İng. <em>the fallacy fallacy</em>)<br>Bir görüş, taraftarlarının onu nasıl savunduğuna bağımlı olmaksızın doğru veya hatalı olabilir. Yanlış bir şekilde savunulan veya savunulurken mantık yanılgısına düşülen iddialar, onu savunan kişinin kullandığı ikna yönteminden veya gerekçelerinden bağımsız olarak değerlendirilmelidir. Doğrusu, iddiayı savunan kişiye değil, iddianın kendisine bakmaktır. Mantık yanılgılarını çok iyi biliyor olabilirsiniz ama bu türünü de unutmayın; ukalalık yapmaya çalışırken bir başka yanılgıya düşmeyin! :)",
         "pageTitle": "Düştüğün mantık hatası: yanılgı argümanı",
-        "exampleText": "<blockquote>“Çiğdem: Son zamanlarda birçok insan hazır gıdalardan uzak duruyor; artık eskisi gibi popüler değil.<br>Demek ki hazır gıdalar sağlıksız.<br>Deniz: Üzgünüm Çiğdem ama burada resmen popülerlik yanılgısına düşüyorsun.<br>Demek ki hazır gıdalar yemek gayet sağlıklı.”</blockquote>Sırf popüler olduğu için belli bir beslenme şekline uymak ne kadar saçmaysa; bunu söyleyen kişinin yanıltıcı bir gerekçe -popüler olması- sunmasından yola çıkarak öneriyi hepten yanlış saymak da bir o kadar hatalıdır. Burada önemsenmesi gereken tek konu, hazır gıdaların gerçekten sağlıksız olup olmadığıdır.",
+        "exampleText": "<blockquote>Çiğdem: “Son zamanlarda birçok insan hazır gıdalardan uzak duruyor; artık eskisi gibi popüler değil.<br>Demek ki hazır gıdalar sağlıksız.”<br>Deniz: “Üzgünüm Çiğdem ama burada resmen popülerlik yanılgısına düşüyorsun.<br>Demek ki hazır gıdalar yemek gayet sağlıklı.”</blockquote>Sırf popüler olduğu için belli bir beslenme şekline uymak ne kadar saçmaysa; bunu söyleyen kişinin yanıltıcı bir gerekçe -popüler olması- sunmasından yola çıkarak öneriyi hepten yanlış saymak da bir o kadar hatalıdır. Burada önemsenmesi gereken tek konu, hazır gıdaların gerçekten sağlıksız olup olmadığıdır.",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: yanılgı argümanı",
@@ -145,7 +145,7 @@
         "first": "Size yöneltilen eleştiriye, sizi eleştiren kişiyi geri eleştirerek yanıt verdiniz!",
         "description": "<em>Tu quoque</em> Latince bir terimdir ve ‘sen de’ anlamına gelir. Bu hatalı argüman türü, <em>kişiye saldırı</em> (ad hominem) yanılgısının bir çeşididir ve sadece eleştiriyi yapan kişiye yöneliktir; dolayısıyla iddianın veya eleştirinin içeriğine dair bir karşıt iddia içermez. Karşı çıkılan iddia sahibinin iki yüzlülükle suçlanması, iddianın özünden uzaklaşılmasına ve hatta bu iddianın konu bile edilmemesine neden olur. Kısacası, kıvırmayın :)",
         "pageTitle": "Düştüğün mantık hatası: eleştiriyle cevap verme",
-        "exampleText": "<blockquote>Neşe: “Sigara içmek sağlığın için çok zararlı.”</blockquote>Selen: “Ama sen de içiyorsun!”</blockquote>Selen'in itirazı sigara içmenin sağlığa zararlı oluşuna değil, bunu söyleyen Neşe'nin seçimine yöneliktir. Neşe'nin sigara içiyor olması, sigaranın sağlığa zararlı olmadığı veya Neşe'nin bunu söylememesi gerektiği anlamına gelmez.<blockquote>Ozan: “Türkiye, düşünce özgürlüğü bakımından batı ülkelerine kıyasla çok geride.”<br>Hakan: “O zaman sen neden burada yaşıyorsun? Git orada yaşa!”</blockquote>Hakan'ın saldırısı Ozan'ın sunduğu fikre değil, ülke seçimine yöneliktir ve Türkiye'deki düşünce özgürlüğü hakkında herhangi bir sav içermez. Dolayısıyla Ozan'ın görüşünü çürütme yolunda bir adım bile değildir.",
+        "exampleText": "<blockquote>Neşe: “Sigara içmek sağlığın için çok zararlı.”<br>Selen: “Ama sen de içiyorsun!”</blockquote>Selen'in itirazı sigara içmenin sağlığa zararlı oluşuna değil, bunu söyleyen Neşe'nin seçimine yöneliktir. Neşe'nin sigara içiyor olması, sigaranın sağlığa zararlı olmadığı veya Neşe'nin bunu söylememesi gerektiği anlamına gelmez.<blockquote>Ozan: “Türkiye, düşünce özgürlüğü bakımından batı ülkelerine kıyasla çok geride.”<br>Hakan: “O zaman sen neden burada yaşıyorsun? Git orada yaşa!”</blockquote>Hakan'ın saldırısı Ozan'ın sunduğu fikre değil, ülke seçimine yöneliktir ve Türkiye'deki düşünce özgürlüğü hakkında herhangi bir sav içermez. Dolayısıyla Ozan'ın görüşünü çürütme yolunda bir adım bile değildir.",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: eleştiriyle cevap verme",
@@ -352,7 +352,7 @@
         "first": "Birbiriyle uyuşmayan birçok başka özellik barındıran iki şey arasında, işinize gelen özellikler üzerinden benzeşim kurarak iddianızı savundunuz!",
         "description": "(İng. <em>false analogy</em>)<br>Bazen bir iddiayı veya olguyu açıklamak için benzeşimler kurmak, hem derdimizi daha iyi anlatmamıza hem de karşımızdakinin bizi daha iyi anlamasına yardımcı olabilir. Ama birbiriyle benzer olduğunu düşündüğümüz iki olay veya nesneye ait belli bir özelliğin gerçekten de ortak olabileceğini göz önünde bulundururken başka özelliklerinin farklılık gösterebileceğini dikkate almazsak, hatalı benzeşim kurmuş oluruz.",
         "pageTitle": "Düştüğün mantık hatası: hatalı benzeşim",
-        "exampleText": "<blockquote>“Tıpkı bir saatçinin bir saati zihninde kurgulayıp, zamanı ölçmek amacıyla onun karmaşık mekanizmasını tasarladığı ve inşa ettiği gibi, çok daha karmaşık ve düzenli olan insan bedeni ve doğadaki tüm uyumun da bir yaratıcısı ve tasarımcısı vardır.” <em>(William Paley, Natural Theology, 1802)</em></blockquote>Bir saat ve bir insan vücudu gerçekten de yapı itibarıyla epey karmaşıktır ve bu karmaşıklığın nedenlerini açıklamaya ihtiyaç duyulur. Ne bir saat ne de bir vücut, tamamen çalışır haliyle kendiliğinden oluşamaz; dolayısıyla her ikisini de ‘yaratan’ mekanizmaların ortaya çıkarılması gerekir. Ne var ki doğada, tam randımanlı haliyle çalışan bir saati ortaya çıkarabilecek herhangi bir mekanizma yoktur ve bir saat, oluşmak için mutlaka bir ‘saatçi’ye ihtiyaç duyar; oysa tam randımanlı bir insan vücudunu ortaya çıkarabilecek bir süreç (doğal seçilim yoluyla birikimli evrim) mevcuttur ve dolayısıyla herhangi bir başka yaratıcıya gerek duymaz.",
+        "exampleText": "<blockquote>“Tıpkı bir saatçinin bir saati zihninde kurgulayıp, zamanı ölçmek amacıyla onun karmaşık mekanizmasını tasarladığı ve inşa ettiği gibi, çok daha karmaşık ve düzenli olan insan bedeni ve doğadaki tüm uyumun da bir yaratıcısı ve tasarımcısı vardır.” <cite>(William Paley, Natural Theology, 1802)</cite></blockquote>Bir saat ve bir insan vücudu gerçekten de yapı itibarıyla epey karmaşıktır ve bu karmaşıklığın nedenlerini açıklamaya ihtiyaç duyulur. Ne bir saat ne de bir vücut, tamamen çalışır haliyle kendiliğinden oluşamaz; dolayısıyla her ikisini de ‘yaratan’ mekanizmaların ortaya çıkarılması gerekir. Ne var ki doğada, tam randımanlı haliyle çalışan bir saati ortaya çıkarabilecek herhangi bir mekanizma yoktur ve bir saat, oluşmak için mutlaka bir ‘saatçi’ye ihtiyaç duyar; oysa tam randımanlı bir insan vücudunu ortaya çıkarabilecek bir süreç (doğal seçilim yoluyla birikimli evrim) mevcuttur ve dolayısıyla herhangi bir başka yaratıcıya gerek duymaz.",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: hatalı benzeşim",
@@ -371,19 +371,19 @@
         "name": "gercek-temsilci",
         "title": "gerçek temsilci",
         "slug": "gercek-temsilci",
-        "head": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir “ideal”e başvurmak çözüm değildir.",
-        "first": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir “ideal”e başvurmak çözüm değildir.",
+        "head": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir ‘ideal’e başvurmak çözüm değildir.",
+        "first": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir ‘ideal’e başvurmak çözüm değildir.",
         "description": "<p>(İng. <em>no true Scotsman</em>)<br>Bu yanılgı, bir konuda bir argüman ileri sürdükten sonra, kanıtlar istediği kadar aleyhinde olsun, karşı argümanları “o gerçek bir X değil, bu gerçek bir Y değil” şeklinde savuşturmaya çalışınca ortaya çıkar. Ne hikmetse, size sunulan ve savunduğunuz önermeyle çelişen herhangi bir örnek veya kanıt, size göre o olgunun asla <em>gerçek temsilcisi</em> değildir! Bu yüzden argümanınızı sonradan işler ters gitmeye başladığında değil, en başından rasyonalize etmenizi öneririz.</p><p>Bu yanılgı <em>yan çizme</em> argümanının alt kümesindedir ve her “o gerçek bir X değil” ifadesi bir <em>gerçek temsilci</em> argümanı örneği olmayabilir. İddia sahibi tartışmanın orta yerinde X'in tanımını değiştirmişse, bu mantık yanılgısına düşmüş olur. Ama zaten en başından beri mantıksal gerekçeleriyle birlikte “bunu gerçek bir X olarak kabul etmiyorum” demişse, burada bir mantık yanılgısı yoktur.</p>",
         "pageTitle": "Düştüğün mantık hatası: gerçek temsilci",
         "exampleText": "<blockquote>- İslam, barış ve hoşgörü dinidir.<br>- Peki, ya Sivas'ta onca insanı Allahüekber naralarıyla yakanlar? Onlar müslüman değil miydi?<br>- Onlar gerçek müslüman değil.</blockquote>",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: gerçek temsilci",
-                "description": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir “ideal”e başvurmak çözüm değildir."
+                "description": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir ‘ideal’e başvurmak çözüm değildir."
             },
             "og": {
                 "og:title": "Düştüğün mantık hatası: gerçek temsilci",
-                "og:description": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir “ideal”e başvurmak çözüm değildir.",
+                "og:description": "Bir argümanın içerdiği kusurları saklamak ya da ona yöneltilen eleştirileri savuşturmak için sonradan uydurduğunuz bir ‘ideal’e başvurmak çözüm değildir.",
                 "og:image": "http://localhost/ylfi/assets/images/og/17-gercek-temsilci.png",
                 "og:image:width": 150,
                 "og:image:height": 150
@@ -440,19 +440,19 @@
         "name": "yetkin-olmama",
         "title": "yetkin olmama",
         "slug": "yetkin-olmama",
-        "head": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir.",
-        "first": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir.",
+        "head": "“Sen nereden bileceksin, bu işin okulunu mu okudun?” tadındaki serzenişiniz her zaman sökmeyebilir.",
+        "first": "“Sen nereden bileceksin, bu işin okulunu mu okudun?” tadındaki serzenişiniz her zaman sökmeyebilir.",
         "description": "(İng. <em>courtier's reply</em>)<br>Bu yanılgı, karşınızdaki kişinin argümanına karşılık vermek yerine, onun bu konudaki yetkinliğini sorgulamanız şeklinde ortaya çıkar. Siz veya argümanlarını kullandığınız kişi gerçekten de söz konusu tartışma üzerine daha çok okumuş, pratikte bulunmuş veya uzmanlık sahibi olabilirsiniz. İşte sağlıklı bir tartışma için  sizden veya argümanlarını kullandığınız kişiden tam da bu yüzden daha tatmin edici cevaplar bekliyoruz; bizi bu konuda yetkin olmamakla suçlamanızı değil sayın argüman sahibi!",
         "pageTitle": "Düştüğün mantık hatası: yetkin olmama",
         "exampleText": "<blockquote>“Ben yıllardır astroloji üzerine çalışıyorum, ABD'deki bilmem ne enstitüsünden sertifika aldım. Peki, sen okulunu okudun mu da astrolojinin safsata olduğunu iddia ediyorsun?”</blockquote>Astroloji konusunda karşınızdaki şüphecinin işaret ettiği sorunları beğenmiyorsanız, o sorunları geçersiz kılmak için gerekli mantıksal açıklamayı sunmanız yeterli olacaktır. Ortadaki tartışmayı kazanmak için karşınızdaki kişiden daha bilgili olduğunuzu veya o kişinin o konuda yetkin olmadığını söylemek yerine sahip olduğunuz bilgileri kullanmayı deneyin! Biz denedik, %100 işe yarıyor.",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: yetkin olmama",
-                "description": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir."
+                "description": "“Sen nereden bileceksin, bu işin okulunu mu okudun?” tadındaki serzenişiniz her zaman sökmeyebilir."
             },
             "og": {
                 "og:title": "Düştüğün mantık hatası: yetkin olmama",
-                "og:description": "'Sen nereden bileceksin, bu işin okulunu mu okudun?' tadındaki serzenişiniz her zaman sökmeyebilir.",
+                "og:description": "“Sen nereden bileceksin, bu işin okulunu mu okudun?” tadındaki serzenişiniz her zaman sökmeyebilir.",
                 "og:image": "http://localhost/ylfi/assets/images/og/20-yetkin-olmama.png",
                 "og:image:width": 150,
                 "og:image:height": 150
@@ -536,7 +536,7 @@
         "first": "İki zıt argüman birbiriyle çatışıyor diye, doğru olanın bu ikisi arasında bir yerde olması gerektiğini varsaydınız!",
         "description": "(İng. <em>middle ground</em>)<br>Doğru, gerçekten de çoğu zaman iki uç argümanın arasında bir yerde olabilir. Ama bunun bizi yanlı düşünmeye itmemesi gerekir. Bazen bir şey basitçe yanlıştır, “yarı yanlış olsun, yarı doğru” şeklindeki bir yaklaşım bu gerçeği değiştirmez.",
         "pageTitle": "Düştüğün mantık hatası: orta yol",
-        "exampleText": "<blockquote>Çağan: “Aşılar çocuklarda otizme neden oluyor!”<br>Melis: “Bu iddia bilimsel çalışmalarla defalarca çürütüldü ve destekleyen hiçbir bilimsel veri yok!”<br>Oğuz: “Tamam ya, tartışmayın... Gelin, <em>“Aşılar otizm vakalarının hepsine değil, bazılarına neden oluyor”</em> deyip anlaşalım.”</blockquote>",
+        "exampleText": "<blockquote>Çağan: “Aşılar çocuklarda otizme neden oluyor!”<br>Melis: “Bu iddia bilimsel çalışmalarla defalarca çürütüldü ve destekleyen hiçbir bilimsel veri yok!”<br>Oğuz: “Tamam ya, tartışmayın... Gelin, <em>‘Aşılar otizm vakalarının hepsine değil, bazılarına neden oluyor’</em> deyip anlaşalım.”</blockquote>",
         "meta": {
             "seo": {
                 "title": "Düştüğün mantık hatası: orta yol",
