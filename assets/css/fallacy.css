@@ -1605,6 +1605,11 @@ h3 {
   text-decoration: underline;
   color: #808285;
 }
+#footer .license {
+  display: inline-block;
+  font-size: 1rem;
+  margin-top: 0.3em;
+}
 
 .square-button {
   overflow: hidden;
@@ -2619,6 +2624,7 @@ body {
 #social li {
   display: inline-block;
   margin: 0 0 0 3em;
+  vertical-align: top;
 }
 
 @media only screen and (min-width: 0px) and (max-width: 767px) {

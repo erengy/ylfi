@@ -27,5 +27,16 @@
 
         <p class="text-center waits-for-hero">Mantık hataları akıl yürütme sürecimizdeki kusurlardan kaynaklanır ve gerek politikacılar gerekse de medya tarafından insanları yanıltmak için sıklıkla kullanılır. Uyanık olun!</p>
         <div class="text-center">
-            <div class="fb-like" data-href="<?php echo $base_uri; ?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+            <p>İnternetteki arkadaşlarınızı da uyandırın!</p>
+            <ul id="social">
+                <li class="fb">
+                    <div class="fb-like" data-href="<?php echo $base_uri; ?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+                </li>
+                <li class="tw">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="<?php echo $base_uri; ?>" data-text="Akıl var, mantık var!"></a>
+                </li>
+                <li class="gp">
+                    <div class="g-plusone" data-size="medium" data-href="<?php echo $base_uri; ?>"></div>
+                </li>
+            </ul>
         </div>
