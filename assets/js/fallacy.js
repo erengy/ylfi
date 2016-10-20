@@ -656,10 +656,10 @@ app.add({
                 this.show();
                 this.find('h1').html(fallacy.title);
                 this.find('h2').html(fallacy.head);
-                this.find('.body p').first().html(fallacy.description);
-                this.find('.body p').eq(1).html(fallacy.exampleText);
+                this.find('.body .description').first().html(fallacy.description);
+                this.find('.body .example').first().html('<h3>Örnekler</h3>' + fallacy.exampleText);
                 //fb like
-                this.find('.body p').eq(3).html('<span class="fb-like" data-href="https://yourlogicalfallacyis.com/' + fallacyLocale + fallacy.slug + '" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></span>');
+                this.find('.body .fb-button').first().html('<span class="fb-like" data-href="http://localhost/' + fallacyLocale + fallacy.slug + '" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></span>');
                 this.find('.square-button i').attr('class', 'icon-'+fallacy.name);
                 var title = fallacy.meta.seo.title ? fallacy.meta.seo.title : fallacy.pageTitle;
                 window.document.title = title;

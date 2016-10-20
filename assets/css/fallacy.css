@@ -1319,7 +1319,7 @@ hr {
   border-bottom: none;
 }
 
-b, strong, .bold, .fallacy-detailed p + p {
+b, strong, .bold {
   font-family: "Merriweather", sans-serif;
   font-weight: 700;
 }
@@ -2407,6 +2407,36 @@ body {
 }
 .fallacy-detailed header .next {
   right: 10%;
+}
+.fallacy-detailed .description {
+  line-height: 1.6em;
+  margin: 15px 0;
+}
+.fallacy-detailed .example {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  font-weight: normal;
+  line-height: 1.6em;
+  margin: 15px 0;
+  padding: 15px 0;
+}
+.fallacy-detailed .example h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.fallacy-detailed .example blockquote {
+  color: #888;
+  font-style: italic;
+  margin: 15px 0 10px 0;
+}
+.fallacy-detailed .example blockquote > cite,
+.fallacy-detailed .example blockquote > em {
+  font-style: normal;
+}
+.fallacy-detailed .share {
+  font-weight: normal;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
 .cart .total {
