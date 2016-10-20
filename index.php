@@ -45,7 +45,7 @@ $router->map('GET', '/[*:slug]/', function($slug) {
 });
 
 // FAQ
-$router->map('GET', '/faq', function() {
+$router->map('GET', '/sss', function() {
     display_page('faq');
 });
 
