@@ -15,10 +15,10 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<title>Mantık hatalarına düşmemelisin</title>
+<title>Akıl var, mantık var</title>
 <meta name="description" content="Mantık hataları akıl yürütme sürecimizdeki kusurlardan kaynaklanır ve gerek politikacılar gerekse de medya tarafından insanları yanıltmak için sıklıkla kullanılır. Uyanık olun!">
 
-<meta property="og:title" content="Mantık hatalarına düşmemelisin"/>
+<meta property="og:title" content="Akıl var, mantık var"/>
 <meta property="og:image" content="<?php echo $base_uri; ?>/assets/images/og/FallacyPosterPreview.jpg"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="900"/>
