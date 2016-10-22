@@ -29,8 +29,8 @@
 
 <body>
 <div style='display:none'>
-    <img src="<?php echo $base_uri; ?>/assets/images/home/title-home.png" id='homepage_image' />
-    <img src="<?php echo $base_uri; ?>/assets/images/misc/title-fallacy.png" id='miscpage_image' />
+    <img src="<?php echo $base_uri; ?>/assets/images/title-home.png" id='homepage_image' />
+    <img src="<?php echo $base_uri; ?>/assets/images/title-fallacy.png" id='miscpage_image' />
 </div>
 
 <div class="wrap">
@@ -41,7 +41,7 @@
         <div class="container">
             <div class="container">
                 <a href="<?php echo $base_uri; ?>">
-                    <img src="<?php echo $base_uri; ?>/assets/images/home/title-home.png" alt="Akıl var, mantık var" />
+                    <img src="<?php echo $base_uri; ?>/assets/images/title-home.png" alt="Akıl var, mantık var" />
                 </a>
             </div>
         </div>
