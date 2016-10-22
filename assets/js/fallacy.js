@@ -393,7 +393,7 @@ app.add({
             }
         });
 
-        $.getJSON('/' + fallacyLocale + 'assets/js/data/fallacies.json', this.loadFallacies);
+        $.getJSON('/' + fallacyLocale + 'data/fallacies.json', this.loadFallacies);
     },
 
     loadFallacies: function(data){

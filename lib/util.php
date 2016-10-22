@@ -1,6 +1,6 @@
 <?php
 function load_fallacies() {
-    $file = 'assets/js/data/fallacies.json';
+    $file = 'data/fallacies.json';
     $data = file_get_contents($file);
     return json_decode($data, true);
 }
