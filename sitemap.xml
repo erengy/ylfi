@@ -1,135 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost/ylfi</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <!-- FAQ -->
     <url>
-        <loc>http://localhost/ylfi/sss</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/sss</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.3</priority>
     </url>
     <!-- Fallacies -->
     <url>
-        <loc>http://localhost/ylfi/korkuluk</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/korkuluk</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/hatali-cikarim</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/hatali-cikarim</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/duygulara-basvurma</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/duygulara-basvurma</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/yanilgi-argumani</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/yanilgi-argumani</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/kaygan-zemin</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/kaygan-zemin</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/kisiye-saldiri</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/kisiye-saldiri</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/elestiriyle-cevap-verme</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/elestiriyle-cevap-verme</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/inanilmazlik-argumani</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/inanilmazlik-argumani</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/yan-cizme</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/yan-cizme</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/gudumlu-soru</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/gudumlu-soru</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/ispat-yukumlulugu</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/ispat-yukumlulugu</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/anlam-kargasasi</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/anlam-kargasasi</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/kumarbaz-yanilgisi</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/kumarbaz-yanilgisi</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/cogunluga-basvurma</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/cogunluga-basvurma</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/otoriteye-basvurma</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/otoriteye-basvurma</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/hatali-benzesim</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/hatali-benzesim</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/gercek-temsilci</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/gercek-temsilci</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/onculle-reddetme</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/onculle-reddetme</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/hatali-ikilem</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/hatali-ikilem</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/yetkin-olmama</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/yetkin-olmama</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/dogaya-yonelim</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/dogaya-yonelim</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/ardilla-dogrulama</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/ardilla-dogrulama</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/hatali-orneklem</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/hatali-orneklem</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>http://localhost/ylfi/orta-yol</loc>
-        <lastmod>2016-10-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>http://mantikhatalari.com/orta-yol</loc>
+        <lastmod>2016-10-23</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
 </urlset>
