@@ -67,6 +67,12 @@
 </div> <!-- .wrap -->
 
 <script async src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" id="jquery-script"></script>
+
+<script>
+    window.___gcfg = {
+        lang: 'tr'
+    };
+</script>
 <script async defer src="https://apis.google.com/js/platform.js"></script>
 
 <script>

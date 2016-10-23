@@ -317,14 +317,16 @@ app.add({
           var js, fjs = d.getElementsByTagName(s)[0];
           if (d.getElementById(id)) return;
           js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+          js.src = "//connect.facebook.net/tr_TR/sdk.js#xfbml=1&version=v2.5";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
     },
 
     onFallacyDetailedUpdate: function(){
         try{
-            FB.XFBML.parse(); 
+            FB.XFBML.parse();
+            twttr.widgets.load(document.getElementById("social"));
+            gapi.plusone.go(document.getElementById("social"));
         }catch(ex){}
     }
 });
@@ -442,14 +444,6 @@ app.add({
         var detailed = $('.fallacy-detailed').extend({
             
             populate: function(fallacy){
-                this.show();
-                this.find('.square-button i').attr('class', 'icon-'+fallacy.slug);
-                this.find('h1').html(fallacy.title);
-                this.find('h2').html(fallacy.head);
-                this.find('.body .description').first().html(fallacy.description);
-                this.find('.body .example').first().html('<h3>Örnekler</h3>' + fallacy.example);
-                this.find('.body .fb-button').first().html('<span class="fb-like" data-href="http://localhost/' + fallacyLocale + fallacy.slug + '" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></span>');
-
                 window.document.title = 'Düştüğünüz mantık hatası: ' + fallacy.title;
                 $('meta[name="description"]').attr('content', fallacy.head);
 
@@ -461,6 +455,18 @@ app.add({
                 $('meta[property="og:description"]').attr('content', fallacy.head);
                 $('meta[property="og:url"]').attr('content', window.location.href);
                 $('meta[property="og:type"]').attr('content', 'website');
+
+                this.show();
+
+                this.find('.square-button i').attr('class', 'icon-'+fallacy.slug);
+                this.find('h1').html(fallacy.title);
+                this.find('h2').html(fallacy.head);
+                this.find('.body .description').first().html(fallacy.description);
+                this.find('.body .example').first().html('<h3>Örnekler</h3>' + fallacy.example);
+
+                this.find('.body .social .fb').first().html('<div class="fb-like" data-href="' + window.location.href + '" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>');
+                this.find('.body .social .tw').first().html('<a class="twitter-share-button" href="https://twitter.com/share" data-url="' + window.location.href + '" data-text="' + window.document.title + '"></a>');
+                this.find('.body .social .gp').first().html('<div class="g-plusone" data-size="medium" data-href="' + window.location.href + '"></div>');
 
                 app.notify('fallacyDetailedUpdate');
             },
