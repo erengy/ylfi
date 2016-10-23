@@ -1,4 +1,18 @@
 {
+    "pages": {
+        "home": {
+            "title": "Akıl var, mantık var",
+            "head": "Mantık hataları akıl yürütme sürecimizdeki kusurlardan kaynaklanır ve gerek politikacılar gerekse medya tarafından insanları yanıltmak için sıklıkla kullanılır. Uyanık olun!"
+        },
+        "faq": {
+            "title": "Sık sorulan sorular",
+            "head": "Siteyle ilgili sorular ve yanıtları"
+        },
+        "404": {
+            "title": "Sayfa bulunamadı",
+            "head": "Böyle bir sayfa yok. Doğru geldiğinizden emin misiniz?"
+        }
+    },
     "fallacies": {
         "korkuluk": {
             "title": "korkuluk",
