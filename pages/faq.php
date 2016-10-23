@@ -8,4 +8,7 @@
 
             <dt><p>Siz kimsiniz?</p></dt>
             <dd><p>Biz <a href="http://ozgurdusuncehareketi.org/" target="_blank" title="Özgür Düşünce Hareketi">Özgür Düşünce Hareketi</a>'yiz.</p></dd>
+
+            <dt><p>Bi' de şey diyecektim...</p></dt>
+            <dd><p>Görüş ve önerileriniz için <a href="mailto:bilgi@mantikhatalari.com">bilgi@mantikhatalari.com</a> adresini kullanabilirsiniz.</p></dd>
         </dl>

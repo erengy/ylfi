@@ -10,7 +10,7 @@
                             bize ulaşın
                         </a>
                     </h4>
-                    <p>Bize <a href="mailto:bilgi@ozgurdusuncehareketi.org">e-posta</a> göndermeden önce lütfen <a href="<?php echo $baseURI; ?>/sss" title="Sık Sorulan Sorular">SSS</a> bölümünü inceleyin.</p>
+                    <p>Bize <a href="mailto:bilgi@mantikhatalari.com">e-posta</a> göndermeden önce lütfen <a href="<?php echo $baseURI; ?>/sss" title="Sık Sorulan Sorular">SSS</a> bölümünü inceleyin.</p>
                 </li>
                 <li class="col-sm-4">
                     <h4>
