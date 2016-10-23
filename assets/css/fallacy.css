@@ -1506,7 +1506,7 @@ h3 {
   z-index: 2;
   line-height: 4em;
 }
-@media (min-width: 768px) {
+@media (min-width: 480px) {
   #header {
     line-height: 116px;
   }
