@@ -38,12 +38,12 @@ class Data {
     }
 
     public function getPageUrl() {
-        global $base_uri;
+        global $baseURI;
 
         if ($this->slug === 'home') {
-            return $base_uri;
+            return $baseURI;
         } else {
-            return $base_uri . '/' . $this->slug;
+            return $baseURI . '/' . $this->slug;
         }
     }
 
@@ -64,12 +64,12 @@ class Data {
     }
 
     public function getPageImage() {
-        global $base_uri;
+        global $baseURI;
 
         if ($this->isFallacy($this->slug)) {
-            return $base_uri . '/assets/images/og/' . $this->slug . '.png';
+            return $baseURI . '/assets/images/og/' . $this->slug . '.png';
         } else {
-            return $base_uri . '/assets/images/og/FallacyPosterPreview.jpg';
+            return $baseURI . '/assets/images/og/FallacyPosterPreview.jpg';
         }
     }
 
@@ -82,12 +82,12 @@ class Data {
     }
 
     public function getPageHeaderImage() {
-        global $base_uri;
+        global $baseURI;
 
         if ($this->isFallacy($this->slug)) {
-            return $base_uri . '/assets/images/title-fallacy.png';
+            return $baseURI . '/assets/images/title-fallacy.png';
         } else {
-            return $base_uri . '/assets/images/title-home.png';
+            return $baseURI . '/assets/images/title-home.png';
         }
     }
 }

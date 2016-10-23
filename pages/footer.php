@@ -5,17 +5,17 @@
             <ul class="row reset">
                 <li class="col-sm-4">
                     <h4>
-                        <a href="<?php echo $base_uri; ?>/sss">
-                            <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/envelope.svg" alt="" /></span>
+                        <a href="<?php echo $baseURI; ?>/sss">
+                            <span class="image"><img src="<?php echo $baseURI; ?>/assets/images/envelope.svg" alt="" /></span>
                             bize ulaşın
                         </a>
                     </h4>
-                    <p>Bize <a href="mailto:bilgi@ozgurdusuncehareketi.org">e-posta</a> göndermeden önce lütfen <a href="<?php echo $base_uri; ?>/sss" title="Sık Sorulan Sorular">SSS</a> bölümünü inceleyin.</p>
+                    <p>Bize <a href="mailto:bilgi@ozgurdusuncehareketi.org">e-posta</a> göndermeden önce lütfen <a href="<?php echo $baseURI; ?>/sss" title="Sık Sorulan Sorular">SSS</a> bölümünü inceleyin.</p>
                 </li>
                 <li class="col-sm-4">
                     <h4>
                         <a href="http://arsiv.ozgurdusuncehareketi.org" target="_blank">
-                            <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/logo-argument-archive.png" alt="" /></span>
+                            <span class="image"><img src="<?php echo $baseURI; ?>/assets/images/logo-argument-archive.png" alt="" /></span>
                             argüman arşivi
                         </a>
                     </h4>
@@ -24,7 +24,7 @@
                 <li class="col-sm-4">
                     <h4>
                         <a href="https://yalansavar.org" target="_blank">
-                            <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/logo-yalansavar.png" alt="" /></span>
+                            <span class="image"><img src="<?php echo $baseURI; ?>/assets/images/logo-yalansavar.png" alt="" /></span>
                             yalansavar
                         </a>
                     </h4>
@@ -70,9 +70,13 @@
 <script async defer src="https://apis.google.com/js/platform.js"></script>
 
 <script>
-    var fallacyLocale = "ylfi/";
+    var basePath = '<?php echo $basePath; ?>';
+    var basePathFound = basePath.match(/^\/([^/]+)$/);
+    if (basePathFound) {
+        basePath = basePathFound[1] + '/';
+    }
 </script>
-<script async src="<?php echo $base_uri; ?>/assets/js/fallacy.js?15"></script>
+<script async src="<?php echo $baseURI; ?>/assets/js/fallacy.js?15"></script>
 
 <script type="text/html" id="detailed-template">
 <?php require 'fallacy.php'; ?>

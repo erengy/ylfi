@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<link rel="shortcut icon" href="<?php echo $base_uri; ?>/assets/images/favicon.ico" />
+<link rel="shortcut icon" href="<?php echo $baseURI; ?>/assets/images/favicon.ico" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,900&amp;subset=latin-ext" />
-<link rel="stylesheet" href="<?php echo $base_uri; ?>/assets/css/fallacy.css?26" />
+<link rel="stylesheet" href="<?php echo $baseURI; ?>/assets/css/fallacy.css?26" />
 
 <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.2.9/ie8.js"></script>
@@ -28,9 +28,9 @@
 </head>
 
 <body>
-<div style='display:none'>
-    <img src="<?php echo $base_uri; ?>/assets/images/title-home.png" id='homepage_image' />
-    <img src="<?php echo $base_uri; ?>/assets/images/title-fallacy.png" id='miscpage_image' />
+<div style="display:none">
+    <img src="<?php echo $baseURI; ?>/assets/images/title-home.png" id="homepage_image" />
+    <img src="<?php echo $baseURI; ?>/assets/images/title-fallacy.png" id="miscpage_image" />
 </div>
 
 <div class="wrap">
@@ -40,7 +40,7 @@
     <header id="header">
         <div class="container">
             <div class="container">
-                <a href="<?php echo $base_uri; ?>">
+                <a href="<?php echo $baseURI; ?>">
                     <img src="<?php echo $data->getPageHeaderImage(); ?>" alt="<?php echo htmlspecialchars($data->getPageTitle()); ?>" />
                 </a>
             </div>

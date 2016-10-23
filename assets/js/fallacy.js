@@ -393,7 +393,7 @@ app.add({
             }
         });
 
-        $.getJSON('/' + fallacyLocale + 'data/data.json', this.loadFallacies);
+        $.getJSON('/' + basePath + 'data/data.json', this.loadFallacies);
     },
 
     loadFallacies: function(data){
@@ -426,8 +426,8 @@ app.add({
         var fallacy, q = decodeURIComponent(window.location.pathname.replace('/', ''));
 
         // remove locale
-        if (fallacyLocale) {
-            q = q.replace(fallacyLocale, '');
+        if (basePath) {
+            q = q.replace(basePath, '');
         }
 
         if (fallacy = fallacies.find(q, 'slug')) {
@@ -516,7 +516,7 @@ app.add({
         if (!fallacy.populated) {
             detailed.populate(fallacy);
 
-            var path = '/'+ fallacyLocale + fallacy.slug;
+            var path = '/'+ basePath + fallacy.slug;
             window.history.pushState({}, fallacy.title, path);
 
             if (window.ga) {

@@ -4,17 +4,18 @@ require 'lib/config.php';
 require 'lib/data.php';
 require 'lib/util.php';
 
-$base_uri = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . $base_path;
+$baseURI = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . $basePath;
 
 $router = new AltoRouter();
-$router->setBasePath($base_path);
+$router->setBasePath($basePath);
 
 $data = new Data();
 
 ////////////////////////////////////////////////////////////////////////////////
 
 function display_page($slug, $fallacy=false) {
-    global $base_uri;
+    global $basePath;
+    global $baseURI;
     global $data;
 
     $data->setSlug($slug);
@@ -37,8 +38,8 @@ $router->map('GET', '/', function() {
 
 // Remove trailing slash
 $router->map('GET', '/[*:slug]/', function($slug) {
-    global $base_uri;
-    header('Location: ' . $base_uri . '/' . $slug, true, 301);
+    global $baseURI;
+    header('Location: ' . $baseURI . '/' . $slug, true, 301);
 });
 
 // FAQ

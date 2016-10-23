@@ -9,7 +9,7 @@
                 ?>
             </ul>
             <div class="col-xs-12 middle hidden-xs">
-                <img src="<?php echo $base_uri; ?>/assets/images/hero.svg" alt="" />
+                <img src="<?php echo $baseURI; ?>/assets/images/hero.svg" alt="" />
             </div>
             <ul class="col-xs-6 reset">
                 <?php

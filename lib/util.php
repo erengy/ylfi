@@ -5,6 +5,6 @@ function load_json_file($file) {
 }
 
 function get_fallacy_link($fallacy, $slug, $classes='') {
-    global $base_uri;
-    return '<a class="' . $classes . '" href="' . $base_uri . '/' . $slug . '" data-key="' . $slug . '" title="' . htmlspecialchars($fallacy['title']) . '"><i class="icon-' . $slug . '"></i></a>';
+    global $baseURI;
+    return '<a class="' . $classes . '" href="' . $baseURI . '/' . $slug . '" data-key="' . $slug . '" title="' . htmlspecialchars($fallacy['title']) . '"><i class="icon-' . $slug . '"></i></a>';
 }
