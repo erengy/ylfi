@@ -431,6 +431,7 @@ app.add({
         }
 
         if (fallacy = fallacies.find(q, 'slug')) {
+            fallacy.populated = true;
             fallacies.current(fallacy.order);
             app.notify('fallacyDetailedCreate', fallacy);
         }
@@ -508,15 +509,19 @@ app.add({
 
         });
 
-        detailed.populate(fallacy);
         detailed.find('.next,.prev').on('click', detailed.change);
         $(window).on('popstate', detailed.change);
 
-        var path = '/'+ fallacyLocale + fallacy.slug;
-        window.history.pushState({}, fallacy.title, path);
 
-        if (window.ga) {
-            ga('send', 'pageview', path);
+        if (!fallacy.populated) {
+            detailed.populate(fallacy);
+
+            var path = '/'+ fallacyLocale + fallacy.slug;
+            window.history.pushState({}, fallacy.title, path);
+
+            if (window.ga) {
+                ga('send', 'pageview', path);
+            }
         }
     }
 
@@ -584,17 +589,24 @@ app.add({
             item: item,
 
             resume: function(){
+                if (hero.timer) {
+                    hero.stop();
+                }
                 hero.timer = setTimeout(hero.next, 5000);
             },
 
             stop: function(){
                 clearTimeout(hero.timer);
+                hero.timer = undefined;
             },
 
             next: function(){
+                var prev = fallacies.curr;
                 fallacies.next();
-                var next = hero.items[fallacies.current().order];
-                item.setActive.call(next);
+                if (prev > -1) {
+                    var next = hero.items[fallacies.current().order];
+                    item.setActive.call(next);
+                }
                 hero.resume();
             },
 
@@ -683,7 +695,7 @@ app.add({
 
         hero.items.on('mouseenter', item.setActive);
         hero.items.on('mouseenter', hero.stop);
-        hero.items.on('mouseleave', hero.resume);
+        //hero.items.on('mouseleave', hero.resume);
         
         hero.items.on('click', item.preventDefault);
         hero.items.on('click.selected', hero.stop);
