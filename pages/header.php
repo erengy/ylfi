@@ -15,15 +15,15 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<title>Akıl var, mantık var</title>
-<meta name="description" content="Mantık hataları akıl yürütme sürecimizdeki kusurlardan kaynaklanır ve gerek politikacılar gerekse de medya tarafından insanları yanıltmak için sıklıkla kullanılır. Uyanık olun!">
+<title><?php echo $data->getPageTitle(); ?></title>
+<meta name="description" content="<?php echo htmlspecialchars($data->getPageDescription()); ?>">
 
-<meta property="og:title" content="Akıl var, mantık var"/>
-<meta property="og:image" content="<?php echo $base_uri; ?>/assets/images/og/FallacyPosterPreview.jpg"/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="900"/>
-<meta property="og:description" content="Mantık hataları akıl yürütme sürecimizdeki kusurlardan kaynaklanır ve gerek politikacılar gerekse de medya tarafından insanları yanıltmak için sıklıkla kullanılır. Uyanık olun!"/>
-<meta property="og:url" content="<?php echo $base_uri; ?>"/>
+<meta property="og:title" content="<?php echo htmlspecialchars($data->getPageTitle()); ?>" />
+<meta property="og:image" content="<?php echo $data->getPageImage(); ?>" />
+<meta property="og:image:width" content="<?php echo $data->getPageImageWidth(); ?>" />
+<meta property="og:image:height" content="<?php echo $data->getPageImageHeight(); ?>" />
+<meta property="og:description" content="<?php echo htmlspecialchars($data->getPageDescription()); ?>" />
+<meta property="og:url" content="<?php echo $data->getPageUrl(); ?>"/>
 <meta property="og:type" content="website" />
 </head>
 
@@ -41,7 +41,7 @@
         <div class="container">
             <div class="container">
                 <a href="<?php echo $base_uri; ?>">
-                    <img src="<?php echo $base_uri; ?>/assets/images/title-home.png" alt="Akıl var, mantık var" />
+                    <img src="<?php echo $data->getPageHeaderImage(); ?>" alt="<?php echo htmlspecialchars($data->getPageTitle()); ?>" />
                 </a>
             </div>
         </div>

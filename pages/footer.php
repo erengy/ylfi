@@ -14,7 +14,7 @@
                 </li>
                 <li class="col-sm-4">
                     <h4>
-                        <a target='_blank' href="http://arsiv.ozgurdusuncehareketi.org">
+                        <a href="http://arsiv.ozgurdusuncehareketi.org" target="_blank">
                             <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/logo-argument-archive.png" alt="" /></span>
                             argüman arşivi
                         </a>
@@ -23,7 +23,7 @@
                 </li>
                 <li class="col-sm-4">
                     <h4>
-                        <a href="https://yalansavar.org">
+                        <a href="https://yalansavar.org" target="_blank">
                             <span class="image"><img src="<?php echo $base_uri; ?>/assets/images/logo-yalansavar.png" alt="" /></span>
                             yalansavar
                         </a>
@@ -34,18 +34,18 @@
 
             <p class="icons">
                 <?php
-                if (!empty($fallacies)) {
-                    for ($i = 0; $i < count($fallacies) / 2; $i++) {
-                        echo get_fallacy_link($fallacies[$i]);
-                    }
+                $fallacies = $data->getFallacies();
+                $fallacies = array_slice($fallacies, 0, count($fallacies) / 2);
+                foreach ($fallacies as $slug => $fallacy) {
+                    echo get_fallacy_link($fallacy, $slug);
                 }
                 ?>
                 <br class="hidden-md hidden-lg" />
                 <?php
-                if (!empty($fallacies)) {
-                    for ($i = count($fallacies) / 2; $i < count($fallacies); $i++) {
-                        echo get_fallacy_link($fallacies[$i]);
-                    }
+                $fallacies = $data->getFallacies();
+                $fallacies = array_slice($fallacies, count($fallacies) / 2);
+                foreach ($fallacies as $slug => $fallacy) {
+                    echo get_fallacy_link($fallacy, $slug);
                 }
                 ?>
             </p>

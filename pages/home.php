@@ -1,10 +1,10 @@
         <div class="row front-page-hero">
             <ul class="col-xs-6 reset">
                 <?php
-                if (!empty($fallacies)) {
-                    for ($i = 0; $i < count($fallacies) / 2; $i++) {
-                        echo '<li>' . get_fallacy_link($fallacies[$i], 'square-button') . '</li>';
-                    }
+                $fallacies = $data->getFallacies();
+                $fallacies = array_slice($fallacies, 0, count($fallacies) / 2);
+                foreach ($fallacies as $slug => $fallacy) {
+                    echo '<li>' . get_fallacy_link($fallacy, $slug, 'square-button') . '</li>';
                 }
                 ?>
             </ul>
@@ -13,19 +13,22 @@
             </div>
             <ul class="col-xs-6 reset">
                 <?php
-                if (!empty($fallacies)) {
-                    for ($i = count($fallacies) / 2; $i < count($fallacies); $i++) {
-                        echo '<li>' . get_fallacy_link($fallacies[$i], 'square-button') . '</li>';
-                    }
+                $fallacies = $data->getFallacies();
+                $fallacies = array_slice($fallacies, count($fallacies) / 2);
+                foreach ($fallacies as $slug => $fallacy) {
+                    echo '<li>' . get_fallacy_link($fallacy, $slug, 'square-button') . '</li>';
                 }
                 ?>
             </ul>
         </div>
 
         <article class="front-page-hero-article">
+            <h2><?php echo $data->getFallacies()['korkuluk']['title'] ?></h2>
+            <p><?php echo $data->getFallacies()['korkuluk']['head'] ?></p>
+            <hr>
         </article>
 
-        <p class="text-center waits-for-hero">Mantık hataları akıl yürütme sürecimizdeki kusurlardan kaynaklanır ve gerek politikacılar gerekse de medya tarafından insanları yanıltmak için sıklıkla kullanılır. Uyanık olun!</p>
+        <p class="text-center waits-for-hero"><?php echo $data->getPageDescription(); ?></p>
         <div class="text-center">
             <p>İnternetteki arkadaşlarınızı da uyandırın!</p>
             <ul id="social">

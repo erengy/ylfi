@@ -357,8 +357,8 @@ app.add({
 
             push: function(item){
                 item.order = this.length;
-                this.index[item.name] = item;
-                this.slugIndex[item.slug] = item.name;
+                this.index[item.slug] = item;
+                this.slugIndex[item.slug] = item.slug;
                 Array.prototype.push.call(this, item);
             },
 
@@ -377,7 +377,7 @@ app.add({
             },
 
             find: function(q, field){
-                field = field ? field : 'name';
+                field = field ? field : 'slug';
                 if (field === 'slug') {
                     q = this.slugIndex[q];
                 }
@@ -393,12 +393,15 @@ app.add({
             }
         });
 
-        $.getJSON('/' + fallacyLocale + 'data/fallacies.json', this.loadFallacies);
+        $.getJSON('/' + fallacyLocale + 'data/data.json', this.loadFallacies);
     },
 
     loadFallacies: function(data){
-        for (var i = 0; i < data.length; i++){
-            app.fallacies.push(data[i]);
+        data = data['fallacies'];
+        for (var slug in data) {
+            fallacy = data[slug];
+            fallacy.slug = slug;
+            app.fallacies.push(fallacy);
         }
         app.notify('fallaciesLoad', app.fallacies);
     }
@@ -439,25 +442,25 @@ app.add({
             
             populate: function(fallacy){
                 this.show();
+                this.find('.square-button i').attr('class', 'icon-'+fallacy.slug);
                 this.find('h1').html(fallacy.title);
                 this.find('h2').html(fallacy.head);
                 this.find('.body .description').first().html(fallacy.description);
-                this.find('.body .example').first().html('<h3>Örnekler</h3>' + fallacy.exampleText);
-                //fb like
+                this.find('.body .example').first().html('<h3>Örnekler</h3>' + fallacy.example);
                 this.find('.body .fb-button').first().html('<span class="fb-like" data-href="http://localhost/' + fallacyLocale + fallacy.slug + '" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></span>');
-                this.find('.square-button i').attr('class', 'icon-'+fallacy.name);
-                var title = fallacy.meta.seo.title ? fallacy.meta.seo.title : fallacy.pageTitle;
-                window.document.title = title;
 
-                var desc = fallacy.meta.seo.description;
-                $('meta[name="description"]').attr('content', desc);
+                window.document.title = 'Düştüğünüz mantık hatası: ' + fallacy.title;
+                $('meta[name="description"]').attr('content', fallacy.head);
 
-                $.each(fallacy.meta.og, function(key, val) {
-                    $('meta[property="'+key+'"]').attr('content', val);
-                });
-
+                $('meta[property="og:title"]').attr('content', window.document.title);
+                $('meta[property="og:image"]').attr('content', fallacy.head);
+                $('meta[property="og:image:width"]').attr('content', 150);
+                $('meta[property="og:image:height"]').attr('content', 150);
+                $('meta[property="og:description"]').attr('content', fallacy.head);
+                $('meta[property="og:description"]').attr('content', fallacy.head);
                 $('meta[property="og:url"]').attr('content', window.location.href);
-                
+                $('meta[property="og:type"]').attr('content', 'website');
+
                 app.notify('fallacyDetailedUpdate');
             },
 
@@ -599,7 +602,7 @@ app.add({
                 var fallacy = fallacies.current();
                 hero.article.empty()
                             .append('<h2>'+fallacy.title+'</h2>')
-                            .append('<p>'+fallacy.first+'</p>')
+                            .append('<p>'+fallacy.head+'</p>')
                             .append('<hr>')
                             .fadeIn(250);
             },

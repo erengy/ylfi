@@ -1,12 +1,10 @@
 <?php
-function load_fallacies() {
-    $file = 'data/fallacies.json';
+function load_json_file($file) {
     $data = file_get_contents($file);
     return json_decode($data, true);
 }
 
-function get_fallacy_link($fallacy, $classes='') {
+function get_fallacy_link($fallacy, $slug, $classes='') {
     global $base_uri;
-    return '<a class="' . $classes . '" href="' . $base_uri . '/' . $fallacy['slug'] . '" data-key="' . $fallacy['slug'] . '" title="' . $fallacy['title'] . '"><i class="icon-' . $fallacy['slug'] . '"></i></a>';
+    return '<a class="' . $classes . '" href="' . $base_uri . '/' . $slug . '" data-key="' . $slug . '" title="' . htmlspecialchars($fallacy['title']) . '"><i class="icon-' . $slug . '"></i></a>';
 }
-?>

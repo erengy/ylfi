@@ -1,6 +1,7 @@
 <?php
 require 'lib/AltoRouter.php';
 require 'lib/config.php';
+require 'lib/data.php';
 require 'lib/util.php';
 
 $base_uri = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . $base_path;
@@ -8,24 +9,20 @@ $base_uri = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . $base_p
 $router = new AltoRouter();
 $router->setBasePath($base_path);
 
-$fallacies = load_fallacies();
-
-$fallacy_slugs = array();
-if (!empty($fallacies) && empty($fallacy_slugs)) {
-    foreach ($fallacies as $fallacy) {
-        $fallacy_slugs[$fallacy['slug']] = true;
-    }
-}
+$data = new Data();
 
 ////////////////////////////////////////////////////////////////////////////////
 
-function display_page($page) {
+function display_page($slug, $fallacy=false) {
     global $base_uri;
-    global $fallacies;
+    global $data;
 
-    require __DIR__ . '/pages/header.php'; 
-    require __DIR__ . '/pages/' . $page . '.php';
-    require __DIR__ . '/pages/footer.php'; 
+    $data->setSlug($slug);
+    $slug = $fallacy ? 'fallacy' : $slug;
+
+    require __DIR__ . '/pages/header.php';
+    require __DIR__ . '/pages/' . $slug . '.php';
+    require __DIR__ . '/pages/footer.php';
 }
 
 function not_found() {
@@ -51,10 +48,10 @@ $router->map('GET', '/sss', function() {
 
 // Fallacies
 $router->map('GET', '/[*:slug]', function($slug) {
-    global $fallacy_slugs;
+    global $data;
 
-    if (array_key_exists($slug, $fallacy_slugs)) {
-        display_page('fallacy');
+    if ($data->isFallacy($slug)) {
+        display_page($slug, true);
     } else {
         not_found();
     }
@@ -63,7 +60,7 @@ $router->map('GET', '/[*:slug]', function($slug) {
 $match = $router->match();
 
 if ($match && is_callable($match['target'])) {
-    call_user_func_array($match['target'], $match['params']); 
+    call_user_func_array($match['target'], $match['params']);
 } else {
     not_found();
 }
