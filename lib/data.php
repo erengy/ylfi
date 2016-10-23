@@ -69,7 +69,7 @@ class Data {
         if ($this->isFallacy($this->slug)) {
             return $baseURI . '/assets/images/og/' . $this->slug . '.png';
         } else {
-            return $baseURI . '/assets/images/og/FallacyPosterPreview.jpg';
+            return $baseURI . '/assets/images/og/default.jpg';
         }
     }
 
