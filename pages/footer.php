@@ -76,6 +76,7 @@
 <script async defer src="https://apis.google.com/js/platform.js"></script>
 
 <script>
+    var baseURI = '<?php echo $baseURI; ?>';
     var basePath = '<?php echo $basePath; ?>';
     var basePathFound = basePath.match(/^\/([^/]+)$/);
     if (basePathFound) {

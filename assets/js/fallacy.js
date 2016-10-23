@@ -444,16 +444,19 @@ app.add({
         var detailed = $('.fallacy-detailed').extend({
             
             populate: function(fallacy){
-                window.document.title = 'Düştüğünüz mantık hatası: ' + fallacy.title;
+                var location = baseURI + '/' + fallacy.slug;
+                var title = 'Düştüğünüz mantık hatası: ' + fallacy.title;
+
+                window.document.title = title;
                 $('meta[name="description"]').attr('content', fallacy.head);
 
-                $('meta[property="og:title"]').attr('content', window.document.title);
+                $('meta[property="og:title"]').attr('content', title);
                 $('meta[property="og:image"]').attr('content', fallacy.head);
                 $('meta[property="og:image:width"]').attr('content', 150);
                 $('meta[property="og:image:height"]').attr('content', 150);
                 $('meta[property="og:description"]').attr('content', fallacy.head);
                 $('meta[property="og:description"]').attr('content', fallacy.head);
-                $('meta[property="og:url"]').attr('content', window.location.href);
+                $('meta[property="og:url"]').attr('content', location);
                 $('meta[property="og:type"]').attr('content', 'website');
 
                 this.show();
@@ -464,9 +467,9 @@ app.add({
                 this.find('.body .description').first().html(fallacy.description);
                 this.find('.body .example').first().html('<h3>Örnekler</h3>' + fallacy.example);
 
-                this.find('.body .social .fb').first().html('<div class="fb-like" data-href="' + window.location.href + '" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>');
-                this.find('.body .social .tw').first().html('<a class="twitter-share-button" href="https://twitter.com/share" data-url="' + window.location.href + '" data-text="' + window.document.title + '"></a>');
-                this.find('.body .social .gp').first().html('<div class="g-plusone" data-size="medium" data-href="' + window.location.href + '"></div>');
+                this.find('.body .social .fb').first().html('<div class="fb-like" data-href="' + location + '" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>');
+                this.find('.body .social .tw').first().html('<a class="twitter-share-button" href="https://twitter.com/share" data-url="' + location + '" data-text="' + title + '"></a>');
+                this.find('.body .social .gp').first().html('<div class="g-plusone" data-size="medium" data-href="' + location + '"></div>');
 
                 app.notify('fallacyDetailedUpdate');
             },
